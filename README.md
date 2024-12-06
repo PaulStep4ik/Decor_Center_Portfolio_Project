@@ -63,7 +63,7 @@ At this stage of the project, the ER diagram for the database was created to man
 
 Below is the ER diagram illustrating the relationships between the tables:
 
-![ER Diagram](Decor%20Center%20Database%20ER-Diagram.JPG)
+![ER Diagram](ER-Diagram.JPG)
 
 ---
 
