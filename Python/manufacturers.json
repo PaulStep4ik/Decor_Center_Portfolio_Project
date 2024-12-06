@@ -1,0 +1,193 @@
+[
+    {
+        "Name": "Oikos",
+        "Country": "Italy",
+        "Materials": [
+            "Ottocento",
+            "Supercolor",
+            "Pallas",
+            "Marmorino Naturale",
+            "Travertino Romano",
+            "Cera"
+        ],
+        "Website": "https://www.oikos.ua/"
+    },
+    {
+        "Name": "Candis",
+        "Country": "Italy",
+        "Materials": [
+            "Hoblio Argento",
+            "Arabesque",
+            "Nylum",
+            "Vintage",
+            "GLI Stucchi",
+            "Mohair"
+        ],
+        "Website": "https://candis.it/"
+    },
+    {
+        "Name": "Elf Decor",
+        "Country": "Ukraine",
+        "Materials": [
+            "Sahara Silver",
+            "Feerie",
+            "Persia",
+            "Illusion",
+            "Grotto",
+            "Travertino Style"
+        ],
+        "Website": "https://elf-decor.com/"
+    },
+    {
+        "Name": "Colorificio Veneziano",
+        "Country": "Italy",
+        "Materials": [
+            "Grassello Extra",
+            "Travertino in Polvere",
+            "Marmorino",
+            "Cera Extra",
+            "Lavedil S"
+        ],
+        "Website": "https://www.colorificioveneziano.com/it"
+    },
+    {
+        "Name": "Ferrara Paint",
+        "Country": "Ukraine",
+        "Materials": [
+            "Vetro base AR",
+            "Ferrara base S",
+            "Pietra Lucida",
+            "Pietra Media",
+            "Ferro"
+        ],
+        "Website": "https://ferrara-paint.ua/"
+    },
+    {
+        "Name": "Simpletone",
+        "Country": "Ukraine",
+        "Materials": [
+            "Primer",
+            "Soft base S",
+            "Fiji",
+            "Travertine",
+            "SimpleFon",
+            "Etna"
+        ],
+        "Website": "https://ferrara-paint.ua/simpletone/"
+    },
+    {
+        "Name": "Tattoo",
+        "Country": "Italy",
+        "Materials": [
+            "Karma",
+            "Tahiti",
+            "Riflessi",
+            "Starlight",
+            "Marmorino/Travertino",
+            "Cera",
+            "Krakeliur"
+        ],
+        "Website": ""
+    },
+    {
+        "Name": "Deco Terra",
+        "Country": "Italy",
+        "Materials": [
+            "Assiria",
+            "Sahara Grosso",
+            "Velatura Seta",
+            "Travertino",
+            "Pietra Antica",
+            "Stucco"
+        ],
+        "Website": "https://www.decoterra.com.ua/ua/"
+    },
+    {
+        "Name": "Coverit",
+        "Country": "Italy",
+        "Materials": [
+            "Carrara",
+            "Duetto",
+            "Vesuvio",
+            "Classico",
+            "Cera Brillante"
+        ],
+        "Website": "https://coverit.it/en/"
+    },
+    {
+        "Name": "Valpaint",
+        "Country": "Italy",
+        "Materials": [
+            "Klondike",
+            "Sabulador",
+            "Polistof",
+            "Mavericks",
+            "Cera lucidante 370"
+        ],
+        "Website": "https://www.valpaint.it/ru/"
+    },
+    {
+        "Name": "Rossetti",
+        "Country": "Italy",
+        "Materials": [
+            "Hobby Color",
+            "Mondo Nuovo",
+            "R 05",
+            "MC2",
+            "Super Pittura"
+        ],
+        "Website": ""
+    },
+    {
+        "Name": "Senideco",
+        "Country": "France",
+        "Materials": [
+            "Decor de Provence",
+            "Decors Provence Cire",
+            "Peinture Colle",
+            "Papyrus"
+        ],
+        "Website": "https://senideco.com/"
+    },
+    {
+        "Name": "Antica Signoria",
+        "Country": "Italy",
+        "Materials": [
+            "Chic Classic",
+            "Chiffon",
+            "Tresor",
+            "Elite Grassello",
+            "Vertigo"
+        ],
+        "Website": "http://www.anticasignoria.lv/en/"
+    },
+    {
+        "Name": "Pufas",
+        "Country": "Germany",
+        "Materials": [
+            "Crystal-Finish",
+            "Pufamix"
+        ],
+        "Website": "https://pufas.com/org/"
+    },
+    {
+        "Name": "Greendeco",
+        "Country": "Ukraine",
+        "Materials": [
+            "Chiaro Pearl",
+            "Chiaro Silver",
+            "Miora Silver",
+            "Miora Pearl",
+            "Fondo Decoro"
+        ],
+        "Website": "https://www.greendeco.in.ua/"
+    },
+    {
+        "Name": "Fast Granit",
+        "Country": "Poland",
+        "Materials": [
+            "Fast Granit Natura"
+        ],
+        "Website": ""
+    }
+]
