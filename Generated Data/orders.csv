@@ -1,0 +1,1069 @@
+Order ID,Customer ID,Mediator ID,City,Address,Order Date
+10001,10318,4,Kyiv,"Lesi Ukrainky Blvd., 65",2024-02-09
+10002,10286,32,Kharkiv,"Moskovskyi Ave., 30",2023-07-15
+10003,10528,30,Kharkiv,"Holodnohirska St., 136",2024-08-07
+10004,10623,10,Kharkiv,"Heroiv Kharkova Ave., 62",2023-07-28
+10005,10071,23,Zaporizhzhia,"Pobedy Blvd., 172",2023-02-19
+10006,10604,29,Vinnytsia,"Sportyvna St., 186",2023-10-08
+10007,10106,28,Lviv,"Kopernyka St., 15",2024-01-31
+10008,10131,15,Kharkiv,"Sumska St., 141",2022-12-14
+10009,10563,10,Kharkiv,"Holodnohirska St., 245",2023-10-15
+10010,10590,27,Kyiv,"Instytutska St., 145",2024-04-26
+10011,10187,11,Kyiv,"Shevchenka Ave., 123",2024-03-08
+10012,10015,10,Mykolaiv,"Shevchenka St., 101",2024-08-23
+10013,10267,15,Lviv,"Kopernyka St., 32",2023-09-26
+10014,10237,24,Kyiv,"Instytutska St., 253",2023-10-13
+10015,10269,33,Kharkiv,"Sumska St., 231",2023-07-07
+10016,10286,18,Lviv,"Shevchenka St., 66",2023-12-18
+10017,10554,34,Kharkiv,"Heroiv Kharkova Ave., 220",2023-05-31
+10018,10334,3,Kyiv,"Saksahanskoho St., 176",2024-03-10
+10019,10584,15,Lviv,"Rynok Sq., 71",2023-03-18
+10020,10354,29,Odesa,"Derybasivska St., 196",2023-03-07
+10021,10451,35,Chernihiv,"Rokossovskoho St., 19",2023-05-31
+10022,10184,5,Odesa,"Mykhailivska St., 20",2024-05-25
+10023,10358,18,Dnipro,"Myrna St., 249",2024-01-31
+10024,10623,28,Odesa,"Prymorskyi Blvd., 241",2024-07-05
+10025,10625,29,Kharkiv,"Pushkinska St., 204",2024-02-07
+10026,10391,5,Kharkiv,"Pushkinska St., 69",2023-02-04
+10027,10523,28,Odesa,"Novoselskoho St., 40",2024-03-04
+10028,10606,33,Kharkiv,"Pushkinska St., 75",2024-10-12
+10029,10237,32,Poltava,"Mazepy St., 182",2024-02-04
+10030,10133,34,Kyiv,"Shevchenka Ave., 174",2024-02-15
+10031,10294,15,Chernihiv,"Rokossovskoho St., 20",2024-08-08
+10032,10130,20,Kyiv,"Andriivskyi Uzviz, 157",2023-06-12
+10033,10182,16,Odesa,"Prymorskyi Blvd., 27",2024-05-22
+10034,10244,11,Kharkiv,"Holodnohirska St., 203",2024-05-02
+10035,10335,25,Lviv,"Svobody Ave., 189",2024-11-10
+10036,10257,35,Lviv,"Svobody Ave., 212",2024-11-20
+10037,10564,30,Kyiv,"Saksahanskoho St., 200",2023-02-22
+10038,10347,26,Kyiv,"Andriivskyi Uzviz, 57",2023-02-05
+10039,10438,4,Kyiv,"Khreshchatyk St., 38",2024-05-19
+10040,10603,14,Ivano-Frankivsk,"Sportyvna St., 248",2023-12-25
+10041,10280,3,Lviv,"Shevchenka St., 83",2023-02-11
+10042,10576,6,Lviv,"Bandery St., 158",2022-11-29
+10043,10140,6,Kharkiv,"Nauky Ave., 100",2024-02-26
+10044,10615,26,Odesa,"Novoselskoho St., 36",2023-12-02
+10045,10610,19,Ivano-Frankivsk,"Sichovykh Striltsiv St., 158",2024-08-10
+10046,10141,18,Sumy,"Sadova St., 74",2024-08-04
+10047,10215,9,Lviv,"Kopernyka St., 199",2024-02-21
+10048,10274,20,Lviv,"Kopernyka St., 113",2024-05-31
+10049,10553,12,Zaporizhzhia,"Peremohy St., 122",2024-02-18
+10050,10461,13,Chernihiv,"Kotsyubynskoho St., 3",2023-11-29
+10051,10481,10,Kharkiv,"Svobody Sq., 14",2024-09-04
+10052,10402,16,Lviv,"Svobody Ave., 83",2023-02-20
+10053,10431,22,Kharkiv,"Moskovskyi Ave., 178",2024-09-03
+10054,10041,21,Zaporizhzhia,"Khortytska St., 148",2024-02-03
+10055,10270,4,Kharkiv,"Poltavskyi Shlyakh St., 10",2023-01-21
+10056,10124,29,Odesa,"Pushkinska St., 112",2024-03-26
+10057,10054,17,Kyiv,"Bohdana Khmelnytskoho St., 152",2022-12-12
+10058,10330,24,Ivano-Frankivsk,"Sichovykh Striltsiv St., 189",2024-01-29
+10059,10089,20,Kharkiv,"Svobody Sq., 4",2024-11-04
+10060,10072,35,Kyiv,"Andriivskyi Uzviz, 10",2024-08-12
+10061,10151,13,Sumy,"Lermontova St., 206",2024-08-19
+10062,10343,10,Kyiv,"Velyka Vasylkivska St., 239",2023-06-10
+10063,10234,31,Kharkiv,"Nauky Ave., 238",2023-07-30
+10064,10189,3,Zaporizhzhia,"Peremohy St., 225",2024-04-01
+10065,10442,6,Ivano-Frankivsk,"Sichovykh Striltsiv St., 124",2024-10-29
+10066,10621,25,Odesa,"Frantsuzkyi Blvd., 229",2024-06-07
+10067,10631,31,Vinnytsia,"Pirogova St., 209",2023-07-30
+10068,10285,25,Kharkiv,"Moskovskyi Ave., 162",2023-05-17
+10069,10397,1,Odesa,"Prymorskyi Blvd., 194",2024-04-05
+10070,10481,13,Kyiv,"Volodymyrska St., 35",2023-12-03
+10071,10551,8,Lviv,"Halytska St., 87",2024-08-12
+10072,10121,5,Lviv,"Franko St., 14",2023-04-27
+10073,10536,2,Ivano-Frankivsk,"Melnyka St., 244",2023-10-06
+10074,10433,14,Lviv,"Franko St., 19",2023-07-29
+10075,10421,33,Mykolaiv,"Sadova St., 7",2024-10-12
+10076,10520,29,Mykolaiv,"Sadova St., 178",2023-11-26
+10077,10569,9,Kharkiv,"Holodnohirska St., 246",2023-02-15
+10078,10376,30,Lviv,"Leva St., 6",2024-10-03
+10079,10271,14,Kharkiv,"Pushkinska St., 133",2023-05-20
+10080,10125,10,Lviv,"Bandery St., 77",2024-10-12
+10081,10160,22,Odesa,"Prymorskyi Blvd., 103",2023-07-07
+10082,10560,6,Kharkiv,"Svobody Sq., 204",2024-09-29
+10083,10135,31,Lviv,"Kopernyka St., 179",2024-10-20
+10084,10618,7,Odesa,"Hretska St., 88",2022-12-24
+10085,10456,13,Ivano-Frankivsk,"Melnyka St., 19",2023-10-12
+10086,10513,12,Lviv,"Kopernyka St., 76",2024-02-10
+10087,10156,20,Sumy,"Zhovtneva St., 179",2023-08-12
+10088,10566,14,Dnipro,"Peremohy Sq., 247",2024-08-29
+10089,10470,22,Poltava,"Kalynova St., 86",2024-03-28
+10090,10231,3,Lviv,"Leva St., 156",2024-11-19
+10091,10460,16,Odesa,"Novoselskoho St., 127",2022-12-23
+10092,10481,19,Dnipro,"Dmytra Yavornytskoho Ave., 236",2023-05-13
+10093,10185,33,Poltava,"Oktober St., 174",2023-05-19
+10094,10399,23,Kharkiv,"Poltavskyi Shlyakh St., 15",2024-10-08
+10095,10139,19,Lviv,"Kopernyka St., 162",2024-11-23
+10096,10290,20,Odesa,"Polska St., 244",2024-11-17
+10097,10057,6,Kharkiv,"Heroiv Kharkova Ave., 230",2023-03-02
+10098,10022,32,Lviv,"Kopernyka St., 91",2024-08-07
+10099,10240,25,Kharkiv,"Haharina Ave., 166",2023-10-07
+10100,10030,3,Kharkiv,"Poltavskyi Shlyakh St., 166",2023-12-04
+10101,10360,19,Kharkiv,"Nauky Ave., 79",2024-03-28
+10102,10053,8,Sumy,"Zhovtneva St., 173",2024-04-16
+10103,10487,24,Poltava,"Mazepy St., 38",2023-05-28
+10104,10530,15,Zaporizhzhia,"Pratsi Sq., 82",2023-02-04
+10105,10045,16,Kharkiv,"Haharina Ave., 218",2023-06-06
+10106,10067,10,Zaporizhzhia,"Peremohy St., 9",2024-10-06
+10107,10420,18,Dnipro,"Dmytra Yavornytskoho Ave., 182",2024-01-04
+10108,10391,24,Lviv,"Shevchenka St., 98",2022-12-27
+10109,10230,20,Lviv,"Bandery St., 49",2023-07-17
+10110,10335,32,Lviv,"Rynok Sq., 92",2023-10-15
+10111,10560,19,Chernihiv,"Dniprovska St., 57",2024-06-02
+10112,10415,16,Lviv,"Virmenska St., 110",2023-06-30
+10113,10190,31,Kharkiv,"Sumska St., 83",2023-08-17
+10114,10408,18,Kyiv,"Andriivskyi Uzviz, 141",2024-04-03
+10115,10494,4,Odesa,"Prymorskyi Blvd., 253",2024-01-26
+10116,10047,29,Kharkiv,"Pushkinska St., 215",2024-08-06
+10117,10467,8,Kyiv,"Andriivskyi Uzviz, 82",2024-11-18
+10118,10204,16,Kyiv,"Saksahanskoho St., 43",2024-05-28
+10119,10096,11,Kyiv,"Instytutska St., 80",2024-04-21
+10120,10522,22,Zaporizhzhia,"Peremohy St., 170",2023-12-02
+10121,10470,28,Mykolaiv,"Admiralska St., 221",2024-08-18
+10122,10176,34,Lviv,"Bandery St., 96",2024-04-20
+10123,10264,10,Kharkiv,"Holodnohirska St., 101",2023-11-05
+10124,10501,4,Kharkiv,"Sumska St., 192",2024-08-29
+10125,10448,27,Odesa,"Hretska St., 248",2024-10-21
+10126,10021,17,Kyiv,"Bohdana Khmelnytskoho St., 19",2024-08-13
+10127,10439,8,Vinnytsia,"Vasylenka St., 245",2024-11-06
+10128,10508,24,Kharkiv,"Universytetska St., 60",2024-07-05
+10129,10527,25,Kyiv,"Velyka Vasylkivska St., 89",2024-11-13
+10130,10010,20,Kyiv,"Andriivskyi Uzviz, 23",2023-03-12
+10131,10360,18,Odesa,"Novoselskoho St., 246",2024-05-16
+10132,10244,35,Lviv,"Kopernyka St., 207",2024-10-02
+10133,10111,20,Odesa,"Frantsuzkyi Blvd., 16",2024-01-11
+10134,10093,34,Kyiv,"Andriivskyi Uzviz, 2",2024-02-07
+10135,10416,26,Lviv,"Virmenska St., 124",2022-11-29
+10136,10153,31,Kyiv,"Lesi Ukrainky Blvd., 17",2024-01-15
+10137,10161,5,Mykolaiv,"Shevchenka St., 138",2024-04-22
+10138,10206,16,Odesa,"Frantsuzkyi Blvd., 23",2023-10-04
+10139,10563,27,Lviv,"Shevchenka St., 254",2023-04-07
+10140,10544,15,Kharkiv,"Sumska St., 2",2023-01-02
+10141,10613,4,Zaporizhzhia,"Peremohy St., 129",2024-01-20
+10142,10440,8,Dnipro,"Peremohy Sq., 61",2023-11-16
+10143,10436,19,Poltava,"Oktober St., 227",2024-04-16
+10144,10135,5,Odesa,"Mykhailivska St., 128",2023-02-02
+10145,10295,12,Odesa,"Hretska St., 89",2024-08-02
+10146,10005,21,Lviv,"Rynok Sq., 10",2023-01-12
+10147,10097,28,Odesa,"Prymorskyi Blvd., 96",2024-11-17
+10148,10150,4,Lviv,"Franko St., 75",2023-02-16
+10149,10066,6,Kharkiv,"Pushkinska St., 246",2024-07-08
+10150,10154,33,Lviv,"Shevchenka St., 79",2024-05-06
+10151,10630,9,Kharkiv,"Pushkinska St., 117",2023-11-15
+10152,10031,25,Kyiv,"Bohdana Khmelnytskoho St., 170",2023-09-24
+10153,10126,27,Kharkiv,"Sumska St., 111",2024-08-04
+10154,10464,9,Ivano-Frankivsk,"Holovna St., 86",2023-09-22
+10155,10478,19,Mykolaiv,"Sadova St., 155",2022-12-29
+10156,10097,12,Kyiv,"Pobedy Ave., 230",2023-01-12
+10157,10491,14,Odesa,"Prymorskyi Blvd., 236",2024-10-20
+10158,10200,1,Chernihiv,"Myru St., 51",2023-05-07
+10159,10337,9,Kyiv,"Velyka Vasylkivska St., 71",2023-06-09
+10160,10264,35,Chernihiv,"Haharina St., 235",2023-04-22
+10161,10390,22,Kharkiv,"Poltavskyi Shlyakh St., 43",2024-04-16
+10162,10156,31,Ivano-Frankivsk,"Konovaltsya St., 42",2024-09-28
+10163,10353,9,Kharkiv,"Sumska St., 185",2023-06-19
+10164,10512,1,Kyiv,"Velyka Vasylkivska St., 81",2024-02-13
+10165,10176,9,Zaporizhzhia,"Tsentralna St., 24",2023-05-18
+10166,10179,12,Odesa,"Kanatna St., 228",2023-11-11
+10167,10489,20,Odesa,"Frantsuzkyi Blvd., 236",2023-04-21
+10168,10429,14,Kharkiv,"Moskovskyi Ave., 148",2024-04-01
+10169,10302,33,Kharkiv,"Poltavskyi Shlyakh St., 30",2023-08-12
+10170,10560,20,Lviv,"Shevchenka St., 170",2023-07-03
+10171,10361,17,Odesa,"Tolstoho St., 27",2023-09-20
+10172,10428,26,Kyiv,"Volodymyrska St., 51",2022-12-11
+10173,10033,6,Mykolaiv,"Lenina St., 81",2023-08-08
+10174,10241,23,Vinnytsia,"Pirogova St., 39",2022-12-12
+10175,10383,14,Ivano-Frankivsk,"Holovna St., 49",2024-11-10
+10176,10500,11,Lviv,"Virmenska St., 42",2024-07-13
+10177,10465,16,Chernihiv,"Myru St., 82",2023-05-20
+10178,10491,22,Kyiv,"Pobedy Ave., 232",2023-01-05
+10179,10231,23,Kharkiv,"Heroiv Kharkova Ave., 212",2024-02-17
+10180,10324,14,Lviv,"Shevchenka St., 113",2024-08-17
+10181,10007,22,Kharkiv,"Poltavskyi Shlyakh St., 94",2024-10-27
+10182,10281,10,Lviv,"Chornovola Ave., 69",2023-09-28
+10183,10152,13,Kharkiv,"Nauky Ave., 162",2024-06-27
+10184,10298,15,Poltava,"Pushkina St., 234",2023-02-12
+10185,10584,22,Kyiv,"Volodymyrska St., 158",2023-04-12
+10186,10526,26,Zaporizhzhia,"Peremohy St., 196",2023-11-15
+10187,10539,26,Kyiv,"Pobedy Ave., 24",2023-12-25
+10188,10532,13,Chernihiv,"Nezalezhnosti St., 245",2024-01-03
+10189,10193,25,Kharkiv,"Svobody Sq., 81",2023-01-24
+10190,10106,16,Odesa,"Polska St., 157",2023-01-29
+10191,10286,26,Dnipro,"Glinka St., 146",2023-12-06
+10192,10038,12,Lviv,"Virmenska St., 47",2024-03-22
+10193,10535,13,Kyiv,"Andriivskyi Uzviz, 242",2023-09-03
+10194,10498,27,Poltava,"Zhovtneva St., 242",2024-09-19
+10195,10016,22,Odesa,"Kanatna St., 64",2024-01-29
+10196,10448,1,Kharkiv,"Svobody Sq., 145",2023-04-08
+10197,10461,9,Vinnytsia,"Sportyvna St., 32",2023-08-15
+10198,10014,17,Kharkiv,"Sumska St., 41",2023-11-10
+10199,10618,1,Kyiv,"Shevchenka Ave., 186",2023-09-24
+10200,10519,10,Mykolaiv,"Shevchenka St., 105",2024-01-01
+10201,10540,16,Kharkiv,"Svobody Sq., 224",2024-07-31
+10202,10087,33,Lviv,"Svobody Ave., 59",2024-02-25
+10203,10006,7,Kyiv,"Velyka Vasylkivska St., 88",2022-12-16
+10204,10310,32,Vinnytsia,"Vasylenka St., 69",2024-07-19
+10205,10409,24,Odesa,"Pushkinska St., 61",2023-03-05
+10206,10191,32,Lviv,"Halytska St., 199",2023-02-14
+10207,10617,32,Kharkiv,"Haharina Ave., 141",2024-10-22
+10208,10374,27,Kyiv,"Shevchenka Ave., 191",2023-03-01
+10209,10423,25,Lviv,"Kopernyka St., 231",2024-02-02
+10210,10456,32,Kyiv,"Velyka Vasylkivska St., 51",2023-06-29
+10211,10223,31,Odesa,"Novoselskoho St., 204",2023-06-25
+10212,10544,35,Kyiv,"Pobedy Ave., 143",2023-02-08
+10213,10032,13,Odesa,"Hretska St., 56",2024-06-05
+10214,10477,7,Lviv,"Chornovola Ave., 144",2023-11-01
+10215,10437,25,Kharkiv,"Holodnohirska St., 255",2023-12-06
+10216,10151,6,Kharkiv,"Pushkinska St., 241",2023-11-20
+10217,10444,35,Dnipro,"Zakhidna St., 126",2024-02-27
+10218,10088,18,Lviv,"Leva St., 100",2024-04-29
+10219,10615,12,Kyiv,"Pobedy Ave., 50",2024-05-20
+10220,10252,12,Lviv,"Svobody Ave., 106",2024-07-27
+10221,10569,10,Mykolaiv,"Dunaeva St., 147",2024-02-12
+10222,10117,22,Odesa,"Pushkinska St., 177",2023-12-27
+10223,10295,32,Vinnytsia,"Sportyvna St., 172",2023-01-10
+10224,10481,6,Lviv,"Leva St., 38",2023-07-13
+10225,10171,29,Zaporizhzhia,"Peremohy St., 12",2024-10-11
+10226,10282,3,Odesa,"Kanatna St., 154",2024-09-29
+10227,10573,8,Lviv,"Kopernyka St., 50",2022-11-29
+10228,10538,35,Odesa,"Pushkinska St., 106",2024-09-03
+10229,10377,3,Kharkiv,"Poltavskyi Shlyakh St., 91",2024-06-17
+10230,10386,4,Poltava,"Kirova St., 222",2023-02-22
+10231,10061,15,Lviv,"Bandery St., 215",2023-06-28
+10232,10096,13,Dnipro,"Peremohy Sq., 159",2024-10-04
+10233,10066,20,Kharkiv,"Moskovskyi Ave., 96",2023-11-16
+10234,10626,19,Mykolaiv,"Lenina St., 84",2022-12-10
+10235,10572,8,Lviv,"Kopernyka St., 207",2024-10-23
+10236,10038,8,Odesa,"Tolstoho St., 35",2023-07-10
+10237,10275,18,Kyiv,"Bohdana Khmelnytskoho St., 253",2023-09-15
+10238,10276,27,Kharkiv,"Svobody Sq., 96",2023-10-19
+10239,10021,2,Odesa,"Novoselskoho St., 206",2024-09-17
+10240,10202,15,Kyiv,"Shevchenka Ave., 102",2023-02-23
+10241,10312,14,Poltava,"Zhovtneva St., 220",2024-04-10
+10242,10274,17,Kharkiv,"Holodnohirska St., 233",2024-10-26
+10243,10196,11,Vinnytsia,"Pirogova St., 80",2023-07-08
+10244,10003,27,Kyiv,"Shevchenka Ave., 152",2024-02-20
+10245,10544,10,Zaporizhzhia,"Peremohy St., 117",2024-08-03
+10246,10100,29,Odesa,"Frantsuzkyi Blvd., 33",2024-05-19
+10247,10092,27,Sumy,"Zhovtneva St., 219",2023-04-16
+10248,10424,7,Kyiv,"Saksahanskoho St., 16",2024-01-13
+10249,10402,30,Lviv,"Chornovola Ave., 72",2023-09-20
+10250,10296,21,Odesa,"Novoselskoho St., 194",2023-08-04
+10251,10083,10,Kyiv,"Lesi Ukrainky Blvd., 217",2023-03-12
+10252,10298,31,Lviv,"Halytska St., 61",2024-01-27
+10253,10425,5,Kharkiv,"Holodnohirska St., 143",2024-01-10
+10254,10632,19,Lviv,"Rynok Sq., 228",2023-09-29
+10255,10341,28,Sumy,"Myru Ave., 121",2024-01-21
+10256,10171,6,Lviv,"Halytska St., 81",2024-05-27
+10257,10048,18,Odesa,"Pushkinska St., 232",2024-01-02
+10258,10572,16,Kyiv,"Andriivskyi Uzviz, 129",2024-06-06
+10259,10048,29,Lviv,"Franko St., 57",2024-05-11
+10260,10500,18,Kyiv,"Saksahanskoho St., 186",2023-12-06
+10261,10007,35,Odesa,"Polska St., 227",2024-05-26
+10262,10121,30,Kyiv,"Bohdana Khmelnytskoho St., 30",2024-08-22
+10263,10568,1,Kyiv,"Pobedy Ave., 178",2024-06-30
+10264,10435,23,Ivano-Frankivsk,"Sportyvna St., 87",2024-02-03
+10265,10144,5,Kharkiv,"Moskovskyi Ave., 55",2024-07-27
+10266,10262,35,Lviv,"Leva St., 63",2023-03-19
+10267,10251,35,Kharkiv,"Haharina Ave., 59",2024-08-30
+10268,10044,21,Kharkiv,"Poltavskyi Shlyakh St., 26",2024-08-26
+10269,10192,1,Odesa,"Kanatna St., 149",2024-04-06
+10270,10425,20,Lviv,"Leva St., 216",2024-05-16
+10271,10549,19,Chernihiv,"Piatnytska St., 132",2023-10-03
+10272,10579,21,Vinnytsia,"Sportyvna St., 201",2023-11-25
+10273,10064,12,Kyiv,"Lesi Ukrainky Blvd., 241",2024-11-15
+10274,10239,28,Odesa,"Novoselskoho St., 222",2023-10-24
+10275,10449,9,Kharkiv,"Holodnohirska St., 163",2024-05-16
+10276,10457,10,Odesa,"Prymorskyi Blvd., 9",2024-02-23
+10277,10015,24,Mykolaiv,"Frunze St., 100",2023-03-16
+10278,10410,18,Lviv,"Svobody Ave., 26",2023-04-04
+10279,10175,3,Vinnytsia,"Korolenko St., 169",2024-01-03
+10280,10085,1,Odesa,"Kanatna St., 221",2023-03-07
+10281,10583,13,Kyiv,"Bohdana Khmelnytskoho St., 16",2024-02-07
+10282,10406,11,Dnipro,"Heroiv Ave., 4",2023-02-22
+10283,10056,26,Mykolaiv,"Khortytska St., 249",2023-01-02
+10284,10188,24,Kharkiv,"Nauky Ave., 167",2023-04-13
+10285,10547,16,Odesa,"Tolstoho St., 75",2023-12-19
+10286,10199,8,Lviv,"Svobody Ave., 164",2023-05-14
+10287,10591,14,Mykolaiv,"Admiralska St., 130",2023-02-10
+10288,10562,21,Dnipro,"Kalynova St., 134",2023-02-22
+10289,10061,13,Kharkiv,"Heroiv Kharkova Ave., 235",2024-10-26
+10290,10194,31,Kyiv,"Shevchenka Ave., 13",2023-07-22
+10291,10335,24,Odesa,"Prymorskyi Blvd., 65",2023-05-02
+10292,10269,23,Odesa,"Derybasivska St., 201",2023-12-17
+10293,10146,13,Kharkiv,"Universytetska St., 251",2024-08-05
+10294,10131,31,Poltava,"Chornovola St., 147",2024-08-25
+10295,10067,29,Odesa,"Tolstoho St., 220",2024-01-29
+10296,10162,28,Ivano-Frankivsk,"Nezalezhnosti St., 112",2023-05-24
+10297,10010,6,Odesa,"Frantsuzkyi Blvd., 215",2023-01-26
+10298,10603,33,Lviv,"Halytska St., 229",2024-03-12
+10299,10562,18,Kharkiv,"Svobody Sq., 34",2024-03-27
+10300,10407,7,Sumy,"Zhovtneva St., 73",2023-07-02
+10301,10629,26,Odesa,"Mykhailivska St., 116",2024-09-12
+10302,10488,1,Kharkiv,"Moskovskyi Ave., 173",2023-10-18
+10303,10399,24,Kharkiv,"Pushkinska St., 148",2024-11-20
+10304,10255,3,Kyiv,"Andriivskyi Uzviz, 42",2023-06-14
+10305,10004,25,Lviv,"Shevchenka St., 17",2023-11-04
+10306,10148,25,Kharkiv,"Holodnohirska St., 160",2024-03-02
+10307,10624,3,Zaporizhzhia,"Sobornyi Ave., 254",2024-11-02
+10308,10258,23,Kyiv,"Shevchenka Ave., 196",2023-07-18
+10309,10016,17,Mykolaiv,"Nezalezhnosti St., 113",2023-07-12
+10310,10326,34,Kharkiv,"Pushkinska St., 126",2023-11-25
+10311,10533,17,Dnipro,"Myrna St., 211",2024-02-12
+10312,10168,28,Mykolaiv,"Khortytska St., 48",2024-05-13
+10313,10266,32,Kyiv,"Shevchenka Ave., 119",2023-11-11
+10314,10064,23,Vinnytsia,"Budivelnykiv St., 195",2023-07-08
+10315,10038,9,Kharkiv,"Haharina Ave., 127",2023-02-05
+10316,10162,33,Kharkiv,"Haharina Ave., 40",2024-04-04
+10317,10147,25,Vinnytsia,"Zamkova St., 248",2023-11-27
+10318,10553,30,Odesa,"Tolstoho St., 173",2022-12-27
+10319,10076,1,Ivano-Frankivsk,"Levytskoho St., 217",2024-03-24
+10320,10584,8,Ivano-Frankivsk,"Sichovykh Striltsiv St., 129",2023-08-15
+10321,10567,22,Odesa,"Tolstoho St., 241",2024-02-26
+10322,10114,16,Lviv,"Shevchenka St., 6",2024-11-09
+10323,10401,12,Kharkiv,"Pushkinska St., 105",2024-09-29
+10324,10320,12,Odesa,"Derybasivska St., 56",2024-02-01
+10325,10293,33,Kharkiv,"Holodnohirska St., 84",2023-12-18
+10326,10070,18,Kharkiv,"Moskovskyi Ave., 195",2023-11-04
+10327,10243,2,Kyiv,"Khreshchatyk St., 38",2024-02-03
+10328,10025,14,Kyiv,"Velyka Vasylkivska St., 191",2022-12-19
+10329,10550,10,Kyiv,"Shevchenka Ave., 133",2024-05-29
+10330,10147,9,Ivano-Frankivsk,"Hrushevskoho St., 171",2024-09-09
+10331,10523,14,Odesa,"Polska St., 215",2023-01-31
+10332,10387,18,Odesa,"Frantsuzkyi Blvd., 68",2023-02-13
+10333,10062,14,Sumy,"Sadova St., 9",2023-11-13
+10334,10613,9,Poltava,"Pushkina St., 129",2023-11-21
+10335,10250,29,Mykolaiv,"Chkalova St., 153",2023-11-13
+10336,10488,28,Lviv,"Leva St., 188",2023-09-27
+10337,10499,24,Odesa,"Pushkinska St., 46",2022-12-15
+10338,10070,27,Kyiv,"Instytutska St., 139",2022-12-11
+10339,10146,23,Odesa,"Kanatna St., 130",2023-02-23
+10340,10299,25,Dnipro,"Dmytra Yavornytskoho Ave., 208",2024-05-14
+10341,10494,31,Vinnytsia,"Vasylenka St., 212",2024-10-05
+10342,10434,23,Lviv,"Kopernyka St., 33",2023-04-01
+10343,10257,34,Lviv,"Svobody Ave., 161",2024-08-08
+10344,10288,30,Odesa,"Polska St., 132",2024-05-02
+10345,10459,2,Vinnytsia,"Soborna St., 18",2024-03-02
+10346,10123,24,Kyiv,"Shevchenka Ave., 186",2023-09-08
+10347,10372,2,Kharkiv,"Svobody Sq., 41",2023-09-22
+10348,10440,18,Kyiv,"Bohdana Khmelnytskoho St., 181",2022-12-15
+10349,10463,7,Kyiv,"Instytutska St., 230",2024-08-17
+10350,10464,16,Kyiv,"Saksahanskoho St., 85",2023-11-07
+10351,10281,30,Kharkiv,"Heroiv Kharkova Ave., 36",2024-02-21
+10352,10124,19,Lviv,"Leva St., 177",2024-11-13
+10353,10437,11,Vinnytsia,"Hrushevskogo St., 19",2023-03-12
+10354,10307,16,Vinnytsia,"Hrushevskogo St., 108",2024-08-30
+10355,10038,35,Lviv,"Franko St., 131",2023-08-22
+10356,10376,35,Kharkiv,"Moskovskyi Ave., 184",2024-05-12
+10357,10140,34,Lviv,"Halytska St., 20",2024-11-01
+10358,10091,27,Odesa,"Mykhailivska St., 200",2023-06-22
+10359,10012,22,Odesa,"Derybasivska St., 108",2024-02-14
+10360,10578,21,Odesa,"Prymorskyi Blvd., 161",2024-11-23
+10361,10213,15,Kharkiv,"Pushkinska St., 159",2023-12-24
+10362,10499,24,Lviv,"Halytska St., 143",2024-06-11
+10363,10255,33,Odesa,"Frantsuzkyi Blvd., 191",2024-03-08
+10364,10028,6,Lviv,"Svobody Ave., 59",2024-03-20
+10365,10161,19,Mykolaiv,"Sadova St., 147",2024-06-27
+10366,10556,16,Kharkiv,"Svobody Sq., 91",2023-11-05
+10367,10047,1,Kharkiv,"Nauky Ave., 82",2023-09-30
+10368,10246,22,Lviv,"Virmenska St., 132",2023-11-13
+10369,10257,3,Kyiv,"Pobedy Ave., 73",2024-08-07
+10370,10417,22,Poltava,"Mazepy St., 110",2023-01-23
+10371,10232,32,Vinnytsia,"Vasylenka St., 87",2022-12-27
+10372,10343,11,Kyiv,"Shevchenka Ave., 11",2024-07-20
+10373,10153,23,Ivano-Frankivsk,"Nezalezhnosti St., 124",2023-02-04
+10374,10244,20,Odesa,"Tolstoho St., 68",2024-02-09
+10375,10483,26,Lviv,"Virmenska St., 104",2024-05-13
+10376,10215,2,Kyiv,"Instytutska St., 59",2024-11-10
+10377,10162,9,Kyiv,"Lesi Ukrainky Blvd., 15",2023-06-02
+10378,10573,8,Kyiv,"Velyka Vasylkivska St., 55",2023-01-29
+10379,10167,12,Odesa,"Novoselskoho St., 224",2023-08-31
+10380,10058,13,Lviv,"Virmenska St., 136",2024-10-30
+10381,10453,19,Lviv,"Virmenska St., 129",2023-09-10
+10382,10401,33,Lviv,"Bandery St., 72",2023-01-07
+10383,10551,8,Mykolaiv,"Frunze St., 250",2024-08-25
+10384,10214,17,Kyiv,"Pobedy Ave., 216",2024-08-15
+10385,10196,8,Kharkiv,"Pushkinska St., 33",2023-05-24
+10386,10406,24,Dnipro,"Peremohy Sq., 37",2024-03-09
+10387,10553,30,Kyiv,"Andriivskyi Uzviz, 163",2023-10-03
+10388,10387,9,Lviv,"Kopernyka St., 138",2022-12-30
+10389,10474,7,Kyiv,"Shevchenka Ave., 35",2023-10-16
+10390,10360,31,Kyiv,"Instytutska St., 102",2024-03-29
+10391,10283,14,Odesa,"Derybasivska St., 103",2024-07-25
+10392,10554,23,Kyiv,"Saksahanskoho St., 40",2023-04-02
+10393,10597,4,Lviv,"Leva St., 57",2023-11-25
+10394,10519,27,Kharkiv,"Holodnohirska St., 166",2024-09-29
+10395,10072,16,Ivano-Frankivsk,"Nezalezhnosti St., 86",2024-10-02
+10396,10343,4,Lviv,"Virmenska St., 238",2024-02-29
+10397,10293,25,Vinnytsia,"Pirogova St., 112",2023-04-03
+10398,10331,21,Odesa,"Pushkinska St., 150",2023-01-19
+10399,10576,33,Odesa,"Frantsuzkyi Blvd., 221",2023-12-25
+10400,10208,17,Lviv,"Virmenska St., 122",2023-07-31
+10401,10057,9,Mykolaiv,"Chkalova St., 71",2023-04-03
+10402,10202,4,Lviv,"Leva St., 116",2024-07-05
+10403,10255,8,Odesa,"Pushkinska St., 101",2023-09-18
+10404,10318,26,Chernihiv,"Nezalezhnosti St., 218",2023-08-13
+10405,10087,1,Chernihiv,"Shevchenka St., 29",2023-07-25
+10406,10622,14,Lviv,"Shevchenka St., 185",2023-04-26
+10407,10221,26,Kyiv,"Pobedy Ave., 232",2024-03-21
+10408,10558,10,Kyiv,"Instytutska St., 185",2024-03-21
+10409,10019,19,Odesa,"Frantsuzkyi Blvd., 151",2024-10-23
+10410,10392,21,Odesa,"Derybasivska St., 208",2024-02-20
+10411,10118,22,Lviv,"Virmenska St., 164",2023-05-02
+10412,10278,3,Vinnytsia,"Zamkova St., 149",2024-05-01
+10413,10630,22,Mykolaiv,"Admiralska St., 202",2024-09-22
+10414,10198,2,Sumy,"Soborna St., 79",2024-02-04
+10415,10526,13,Kharkiv,"Heroiv Kharkova Ave., 223",2023-06-14
+10416,10063,6,Ivano-Frankivsk,"Holovna St., 2",2023-02-11
+10417,10046,14,Kharkiv,"Haharina Ave., 17",2024-06-07
+10418,10280,13,Odesa,"Derybasivska St., 103",2024-01-04
+10419,10190,7,Lviv,"Svobody Ave., 224",2024-07-13
+10420,10027,13,Lviv,"Halytska St., 32",2023-06-08
+10421,10362,27,Kyiv,"Bohdana Khmelnytskoho St., 182",2024-11-01
+10422,10551,1,Lviv,"Bandery St., 185",2024-05-15
+10423,10112,4,Kharkiv,"Moskovskyi Ave., 138",2023-09-27
+10424,10510,7,Lviv,"Franko St., 195",2023-08-07
+10425,10293,8,Kyiv,"Velyka Vasylkivska St., 184",2023-12-13
+10426,10522,24,Odesa,"Frantsuzkyi Blvd., 63",2023-10-20
+10427,10056,8,Kyiv,"Instytutska St., 119",2023-08-05
+10428,10307,20,Odesa,"Kanatna St., 188",2023-06-04
+10429,10490,11,Kyiv,"Instytutska St., 38",2024-02-20
+10430,10600,4,Kharkiv,"Universytetska St., 213",2023-03-03
+10431,10076,33,Kyiv,"Bohdana Khmelnytskoho St., 95",2024-06-01
+10432,10239,17,Kharkiv,"Heroiv Kharkova Ave., 39",2024-10-17
+10433,10441,9,Lviv,"Leva St., 86",2023-04-09
+10434,10033,7,Odesa,"Novoselskoho St., 228",2024-10-21
+10435,10387,22,Kyiv,"Saksahanskoho St., 231",2024-08-12
+10436,10563,27,Kyiv,"Saksahanskoho St., 238",2023-03-07
+10437,10290,27,Poltava,"Sobornosti St., 245",2023-12-25
+10438,10262,20,Poltava,"Mazepy St., 168",2024-02-10
+10439,10275,34,Lviv,"Virmenska St., 189",2024-05-24
+10440,10326,22,Sumy,"Vyshneva St., 83",2024-03-06
+10441,10342,8,Kharkiv,"Moskovskyi Ave., 235",2023-08-17
+10442,10012,23,Kharkiv,"Moskovskyi Ave., 124",2024-11-08
+10443,10206,23,Kharkiv,"Holodnohirska St., 46",2024-03-29
+10444,10020,2,Kyiv,"Instytutska St., 27",2023-08-14
+10445,10590,18,Kharkiv,"Heroiv Kharkova Ave., 37",2023-04-26
+10446,10100,19,Sumy,"Pokrovska St., 51",2023-04-03
+10447,10343,31,Zaporizhzhia,"Pivnichna St., 204",2023-09-14
+10448,10037,23,Odesa,"Derybasivska St., 69",2022-12-22
+10449,10350,8,Poltava,"Sobornosti St., 216",2023-05-18
+10450,10325,30,Kharkiv,"Haharina Ave., 168",2023-12-26
+10451,10206,6,Ivano-Frankivsk,"Konovaltsya St., 68",2023-09-13
+10452,10589,1,Kyiv,"Volodymyrska St., 168",2023-01-31
+10453,10235,21,Lviv,"Kopernyka St., 251",2023-01-19
+10454,10547,12,Vinnytsia,"Korolenko St., 215",2024-04-15
+10455,10088,21,Chernihiv,"Rokossovskoho St., 244",2024-08-29
+10456,10153,22,Kyiv,"Saksahanskoho St., 118",2024-03-09
+10457,10486,20,Odesa,"Hretska St., 182",2023-05-18
+10458,10187,34,Poltava,"Mazepy St., 250",2023-03-08
+10459,10206,34,Lviv,"Virmenska St., 36",2023-10-17
+10460,10247,12,Dnipro,"Glinka St., 92",2023-08-04
+10461,10400,31,Lviv,"Chornovola Ave., 62",2024-06-04
+10462,10096,7,Chernihiv,"Piatnytska St., 247",2023-08-25
+10463,10550,33,Odesa,"Tolstoho St., 35",2023-06-27
+10464,10332,23,Lviv,"Shevchenka St., 252",2023-08-28
+10465,10072,15,Lviv,"Halytska St., 129",2024-11-05
+10466,10044,8,Ivano-Frankivsk,"Nezalezhnosti St., 115",2024-06-27
+10467,10139,27,Lviv,"Franko St., 18",2023-07-22
+10468,10281,3,Kharkiv,"Haharina Ave., 99",2024-11-08
+10469,10320,3,Kyiv,"Pobedy Ave., 69",2024-10-27
+10470,10285,2,Odesa,"Novoselskoho St., 95",2024-04-21
+10471,10073,25,Sumy,"Kharkivska St., 217",2024-08-19
+10472,10335,5,Ivano-Frankivsk,"Levytskoho St., 177",2024-08-08
+10473,10570,28,Kharkiv,"Universytetska St., 78",2024-09-18
+10474,10366,25,Vinnytsia,"Vasylenka St., 125",2022-12-24
+10475,10137,21,Kharkiv,"Moskovskyi Ave., 137",2024-09-15
+10476,10129,25,Kharkiv,"Poltavskyi Shlyakh St., 142",2023-07-18
+10477,10394,14,Sumy,"Myru Ave., 245",2023-05-29
+10478,10294,11,Kyiv,"Bohdana Khmelnytskoho St., 35",2023-08-21
+10479,10577,2,Kharkiv,"Nauky Ave., 140",2023-05-25
+10480,10085,13,Odesa,"Mykhailivska St., 91",2024-10-15
+10481,10058,15,Kharkiv,"Holodnohirska St., 145",2024-08-23
+10482,10158,10,Ivano-Frankivsk,"Hrushevskoho St., 89",2023-06-10
+10483,10268,3,Kharkiv,"Moskovskyi Ave., 154",2024-04-15
+10484,10319,33,Lviv,"Shevchenka St., 174",2024-07-17
+10485,10452,27,Dnipro,"Myrna St., 25",2023-11-01
+10486,10041,15,Kyiv,"Velyka Vasylkivska St., 25",2024-02-17
+10487,10566,5,Kharkiv,"Moskovskyi Ave., 98",2023-09-02
+10488,10284,7,Odesa,"Kanatna St., 190",2023-02-15
+10489,10323,20,Kharkiv,"Moskovskyi Ave., 14",2023-03-21
+10490,10182,25,Kharkiv,"Heroiv Kharkova Ave., 27",2024-06-17
+10491,10608,10,Vinnytsia,"Zamkova St., 49",2023-10-29
+10492,10254,34,Lviv,"Virmenska St., 136",2024-08-29
+10493,10540,33,Odesa,"Pushkinska St., 99",2023-05-09
+10494,10160,6,Zaporizhzhia,"Khortytska St., 152",2024-02-25
+10495,10507,33,Odesa,"Polska St., 92",2023-08-21
+10496,10207,7,Kyiv,"Volodymyrska St., 64",2023-12-07
+10497,10500,32,Zaporizhzhia,"Sobornyi Ave., 33",2023-10-31
+10498,10560,10,Poltava,"Kirova St., 195",2024-03-05
+10499,10540,19,Poltava,"Sadova St., 80",2023-05-15
+10500,10593,29,Vinnytsia,"Hrushevskogo St., 170",2023-09-09
+10501,10031,1,Chernihiv,"Dniprovska St., 201",2023-05-27
+10502,10486,7,Zaporizhzhia,"Molodizhna St., 192",2023-02-22
+10503,10285,14,Odesa,"Pushkinska St., 77",2023-09-23
+10504,10507,5,Kyiv,"Saksahanskoho St., 153",2022-12-27
+10505,10599,28,Lviv,"Shevchenka St., 42",2023-10-21
+10506,10420,10,Kyiv,"Khreshchatyk St., 229",2023-09-19
+10507,10046,35,Kyiv,"Pobedy Ave., 127",2024-09-18
+10508,10113,34,Zaporizhzhia,"Peremohy St., 37",2023-11-23
+10509,10246,12,Lviv,"Svobody Ave., 236",2023-06-07
+10510,10477,18,Lviv,"Kopernyka St., 186",2023-03-02
+10511,10384,31,Odesa,"Derybasivska St., 242",2024-03-27
+10512,10388,21,Kharkiv,"Holodnohirska St., 85",2023-10-16
+10513,10020,20,Vinnytsia,"Budivelnykiv St., 104",2024-04-04
+10514,10465,6,Dnipro,"Heroiv Ave., 188",2023-03-26
+10515,10432,5,Odesa,"Prymorskyi Blvd., 140",2023-04-16
+10516,10210,10,Kharkiv,"Poltavskyi Shlyakh St., 79",2024-03-11
+10517,10401,33,Odesa,"Kanatna St., 111",2024-10-24
+10518,10482,19,Odesa,"Tolstoho St., 67",2024-06-23
+10519,10290,18,Lviv,"Franko St., 143",2023-01-25
+10520,10236,21,Kharkiv,"Nauky Ave., 29",2023-12-03
+10521,10505,7,Mykolaiv,"Shevchenka St., 60",2023-12-26
+10522,10078,3,Zaporizhzhia,"Khortytska St., 13",2024-02-03
+10523,10448,2,Odesa,"Tolstoho St., 24",2023-04-14
+10524,10230,29,Lviv,"Franko St., 138",2023-06-18
+10525,10065,27,Kharkiv,"Nauky Ave., 175",2023-09-23
+10526,10420,3,Sumy,"Kharkivska St., 255",2024-08-25
+10527,10277,23,Vinnytsia,"Korolenko St., 246",2023-12-02
+10528,10095,33,Kyiv,"Shevchenka Ave., 211",2023-03-18
+10529,10379,8,Lviv,"Virmenska St., 122",2023-10-05
+10530,10570,4,Chernihiv,"Nezalezhnosti St., 3",2023-02-11
+10531,10127,23,Kharkiv,"Universytetska St., 134",2023-06-04
+10532,10583,29,Kyiv,"Andriivskyi Uzviz, 236",2024-06-02
+10533,10143,11,Lviv,"Kopernyka St., 24",2023-08-29
+10534,10437,16,Ivano-Frankivsk,"Levytskoho St., 45",2024-03-31
+10535,10285,32,Kyiv,"Saksahanskoho St., 34",2024-05-14
+10536,10549,35,Kyiv,"Bohdana Khmelnytskoho St., 186",2023-10-03
+10537,10477,4,Chernihiv,"Dniprovska St., 90",2024-10-13
+10538,10518,20,Kharkiv,"Moskovskyi Ave., 246",2024-11-02
+10539,10394,33,Odesa,"Prymorskyi Blvd., 175",2024-02-02
+10540,10343,20,Zaporizhzhia,"Peremohy St., 22",2023-03-11
+10541,10072,9,Kyiv,"Lesi Ukrainky Blvd., 39",2023-09-01
+10542,10107,2,Lviv,"Leva St., 128",2024-09-26
+10543,10350,17,Kharkiv,"Svobody Sq., 239",2024-10-14
+10544,10018,10,Kharkiv,"Poltavskyi Shlyakh St., 219",2023-09-16
+10545,10442,35,Lviv,"Chornovola Ave., 227",2023-04-09
+10546,10253,22,Kharkiv,"Nauky Ave., 4",2023-03-18
+10547,10273,31,Odesa,"Hretska St., 3",2024-05-27
+10548,10625,6,Kyiv,"Shevchenka Ave., 33",2023-07-02
+10549,10293,6,Zaporizhzhia,"Khortytska St., 138",2023-07-07
+10550,10283,15,Mykolaiv,"Shevchenka St., 174",2023-02-07
+10551,10299,20,Odesa,"Polska St., 248",2023-10-01
+10552,10619,35,Chernihiv,"Nezalezhnosti St., 183",2023-02-10
+10553,10377,3,Kharkiv,"Haharina Ave., 217",2024-06-18
+10554,10355,34,Kyiv,"Volodymyrska St., 119",2024-03-25
+10555,10340,4,Odesa,"Hretska St., 235",2023-02-23
+10556,10588,13,Odesa,"Kanatna St., 167",2023-09-27
+10557,10114,35,Kyiv,"Instytutska St., 140",2023-03-10
+10558,10046,3,Chernihiv,"Nezalezhnosti St., 31",2023-02-06
+10559,10027,26,Poltava,"Kalynova St., 182",2024-01-01
+10560,10453,26,Odesa,"Pushkinska St., 202",2024-11-14
+10561,10405,31,Sumy,"Myru Ave., 47",2024-07-22
+10562,10618,20,Ivano-Frankivsk,"Melnyka St., 161",2023-06-18
+10563,10305,18,Kyiv,"Pobedy Ave., 28",2023-08-21
+10564,10117,18,Lviv,"Shevchenka St., 57",2024-04-02
+10565,10476,11,Kharkiv,"Svobody Sq., 110",2023-10-05
+10566,10223,29,Lviv,"Shevchenka St., 143",2023-08-31
+10567,10147,11,Dnipro,"Dmytra Yavornytskoho Ave., 184",2023-11-12
+10568,10181,24,Odesa,"Pushkinska St., 200",2023-11-22
+10569,10312,3,Kharkiv,"Svobody Sq., 89",2023-01-17
+10570,10310,7,Odesa,"Pushkinska St., 207",2024-07-01
+10571,10234,33,Poltava,"Kirova St., 50",2024-07-30
+10572,10458,28,Lviv,"Kopernyka St., 25",2023-08-04
+10573,10417,24,Odesa,"Kanatna St., 142",2024-06-21
+10574,10416,32,Odesa,"Prymorskyi Blvd., 64",2024-07-14
+10575,10251,14,Kyiv,"Velyka Vasylkivska St., 65",2024-03-26
+10576,10033,29,Odesa,"Frantsuzkyi Blvd., 54",2024-07-27
+10577,10347,23,Kyiv,"Saksahanskoho St., 239",2024-03-02
+10578,10130,17,Lviv,"Leva St., 159",2023-10-02
+10579,10044,33,Zaporizhzhia,"Dniprovska St., 220",2024-06-19
+10580,10385,21,Lviv,"Rynok Sq., 129",2024-07-02
+10581,10101,35,Ivano-Frankivsk,"Sichovykh Striltsiv St., 7",2024-03-28
+10582,10018,34,Kyiv,"Volodymyrska St., 68",2024-10-29
+10583,10290,7,Kharkiv,"Heroiv Kharkova Ave., 63",2024-06-06
+10584,10503,7,Kharkiv,"Svobody Sq., 204",2024-01-14
+10585,10116,26,Lviv,"Rynok Sq., 33",2023-11-23
+10586,10519,10,Poltava,"Pushkina St., 63",2023-04-13
+10587,10507,26,Kharkiv,"Heroiv Kharkova Ave., 36",2023-06-11
+10588,10467,17,Kyiv,"Instytutska St., 17",2023-12-12
+10589,10207,33,Odesa,"Mykhailivska St., 206",2023-05-02
+10590,10135,11,Lviv,"Svobody Ave., 78",2023-11-14
+10591,10374,33,Kharkiv,"Pushkinska St., 237",2024-09-30
+10592,10027,33,Kharkiv,"Nauky Ave., 210",2024-03-24
+10593,10199,20,Lviv,"Franko St., 143",2023-10-15
+10594,10134,4,Kharkiv,"Pushkinska St., 97",2024-08-31
+10595,10176,10,Odesa,"Polska St., 172",2023-07-05
+10596,10558,9,Ivano-Frankivsk,"Levytskoho St., 75",2023-10-22
+10597,10388,28,Odesa,"Derybasivska St., 246",2024-06-01
+10598,10603,8,Lviv,"Bandery St., 210",2023-03-01
+10599,10561,30,Odesa,"Pushkinska St., 84",2023-09-15
+10600,10029,16,Odesa,"Derybasivska St., 174",2024-10-03
+10601,10226,14,Kyiv,"Pobedy Ave., 50",2024-03-10
+10602,10208,3,Kyiv,"Velyka Vasylkivska St., 66",2024-02-17
+10603,10076,2,Odesa,"Polska St., 140",2024-04-17
+10604,10611,18,Kyiv,"Shevchenka Ave., 139",2024-08-06
+10605,10444,26,Lviv,"Halytska St., 31",2024-10-22
+10606,10495,28,Mykolaiv,"Frunze St., 239",2024-06-12
+10607,10604,11,Kyiv,"Lesi Ukrainky Blvd., 22",2023-07-22
+10608,10348,6,Lviv,"Chornovola Ave., 246",2023-09-29
+10609,10615,25,Kharkiv,"Poltavskyi Shlyakh St., 94",2024-03-09
+10610,10531,32,Kharkiv,"Heroiv Kharkova Ave., 217",2024-04-16
+10611,10169,26,Lviv,"Kopernyka St., 81",2023-12-03
+10612,10296,7,Odesa,"Tolstoho St., 166",2024-10-14
+10613,10234,18,Zaporizhzhia,"Sobornyi Ave., 180",2024-06-02
+10614,10123,15,Mykolaiv,"Frunze St., 114",2024-05-05
+10615,10290,23,Kyiv,"Lesi Ukrainky Blvd., 109",2024-02-12
+10616,10613,21,Odesa,"Prymorskyi Blvd., 196",2023-02-01
+10617,10075,17,Kharkiv,"Svobody Sq., 221",2023-07-03
+10618,10107,6,Chernihiv,"Dniprovska St., 78",2023-05-29
+10619,10584,13,Kyiv,"Instytutska St., 201",2023-06-02
+10620,10500,23,Vinnytsia,"Kyivs'ka St., 223",2024-03-27
+10621,10486,21,Odesa,"Mykhailivska St., 55",2023-02-11
+10622,10452,28,Kharkiv,"Svobody Sq., 171",2024-06-03
+10623,10061,16,Odesa,"Hretska St., 128",2023-03-12
+10624,10322,5,Kharkiv,"Nauky Ave., 130",2024-06-18
+10625,10478,14,Kharkiv,"Holodnohirska St., 54",2024-07-15
+10626,10370,28,Kyiv,"Pobedy Ave., 98",2024-08-25
+10627,10407,10,Kyiv,"Volodymyrska St., 6",2023-05-13
+10628,10576,32,Kyiv,"Khreshchatyk St., 157",2023-01-14
+10629,10475,25,Chernihiv,"Piatnytska St., 211",2023-06-20
+10630,10064,3,Ivano-Frankivsk,"Nezalezhnosti St., 210",2023-02-21
+10631,10428,14,Odesa,"Novoselskoho St., 233",2024-11-16
+10632,10498,3,Odesa,"Polska St., 249",2024-05-23
+10633,10071,32,Mykolaiv,"Admiralska St., 244",2023-05-23
+10634,10194,8,Dnipro,"Kalynova St., 171",2023-11-09
+10635,10163,13,Odesa,"Tolstoho St., 209",2023-09-09
+10636,10158,34,Sumy,"Kharkivska St., 216",2024-06-09
+10637,10537,30,Lviv,"Bandery St., 102",2024-08-24
+10638,10029,11,Chernihiv,"Rokossovskoho St., 161",2023-03-29
+10639,10235,16,Lviv,"Leva St., 205",2023-03-02
+10640,10382,6,Kharkiv,"Pushkinska St., 141",2024-07-20
+10641,10330,6,Lviv,"Bandery St., 190",2023-11-07
+10642,10454,31,Odesa,"Polska St., 39",2024-08-26
+10643,10004,15,Poltava,"Oktober St., 148",2023-07-29
+10644,10373,23,Lviv,"Leva St., 196",2023-09-11
+10645,10599,21,Kyiv,"Andriivskyi Uzviz, 154",2023-08-08
+10646,10033,9,Kharkiv,"Pushkinska St., 110",2023-07-21
+10647,10276,7,Ivano-Frankivsk,"Sportyvna St., 29",2024-07-08
+10648,10071,30,Lviv,"Franko St., 91",2023-08-20
+10649,10594,3,Lviv,"Chornovola Ave., 226",2023-01-08
+10650,10002,27,Ivano-Frankivsk,"Konovaltsya St., 27",2023-01-12
+10651,10631,2,Poltava,"Oktober St., 25",2023-03-16
+10652,10050,8,Mykolaiv,"Chkalova St., 118",2023-02-09
+10653,10478,3,Lviv,"Halytska St., 196",2023-01-07
+10654,10521,22,Kharkiv,"Poltavskyi Shlyakh St., 17",2023-09-04
+10655,10053,32,Lviv,"Virmenska St., 27",2023-05-18
+10656,10378,20,Kharkiv,"Heroiv Kharkova Ave., 172",2024-05-03
+10657,10231,4,Kharkiv,"Moskovskyi Ave., 164",2024-10-28
+10658,10424,21,Kyiv,"Shevchenka Ave., 85",2023-01-30
+10659,10140,20,Lviv,"Rynok Sq., 182",2024-08-31
+10660,10243,25,Kharkiv,"Nauky Ave., 91",2023-06-10
+10661,10613,18,Odesa,"Hretska St., 153",2024-07-04
+10662,10127,6,Lviv,"Bandery St., 28",2023-12-08
+10663,10222,25,Kyiv,"Andriivskyi Uzviz, 152",2023-09-06
+10664,10597,9,Kyiv,"Khreshchatyk St., 21",2023-11-09
+10665,10548,24,Lviv,"Franko St., 80",2023-12-04
+10666,10416,2,Kyiv,"Bohdana Khmelnytskoho St., 19",2024-08-31
+10667,10007,26,Odesa,"Mykhailivska St., 29",2024-06-29
+10668,10461,34,Lviv,"Bandery St., 224",2024-08-25
+10669,10005,25,Kharkiv,"Holodnohirska St., 89",2023-12-03
+10670,10253,13,Poltava,"Pushkina St., 62",2024-10-11
+10671,10335,25,Poltava,"Kirova St., 242",2023-03-03
+10672,10233,7,Odesa,"Polska St., 186",2024-03-04
+10673,10241,32,Kyiv,"Velyka Vasylkivska St., 46",2024-10-27
+10674,10180,5,Ivano-Frankivsk,"Sichovykh Striltsiv St., 118",2023-12-09
+10675,10541,4,Kyiv,"Andriivskyi Uzviz, 154",2024-09-09
+10676,10385,25,Lviv,"Kopernyka St., 150",2024-08-03
+10677,10571,20,Lviv,"Shevchenka St., 182",2024-02-18
+10678,10025,30,Chernihiv,"Shevchenka St., 159",2024-08-05
+10679,10362,17,Kharkiv,"Haharina Ave., 50",2023-12-21
+10680,10064,19,Kyiv,"Lesi Ukrainky Blvd., 15",2023-01-29
+10681,10589,16,Kyiv,"Instytutska St., 171",2024-04-27
+10682,10322,32,Lviv,"Svobody Ave., 30",2024-04-25
+10683,10628,22,Kyiv,"Lesi Ukrainky Blvd., 174",2024-01-01
+10684,10372,23,Mykolaiv,"Khortytska St., 85",2024-03-28
+10685,10071,11,Kharkiv,"Universytetska St., 198",2023-10-03
+10686,10514,25,Odesa,"Mykhailivska St., 7",2023-09-22
+10687,10277,7,Mykolaiv,"Sadova St., 160",2024-06-07
+10688,10326,10,Kyiv,"Saksahanskoho St., 158",2024-02-19
+10689,10049,35,Odesa,"Polska St., 130",2023-08-04
+10690,10497,29,Dnipro,"Heroiv Ave., 204",2024-06-06
+10691,10377,15,Lviv,"Virmenska St., 255",2024-01-15
+10692,10079,27,Kharkiv,"Holodnohirska St., 160",2023-12-12
+10693,10184,21,Zaporizhzhia,"Sobornyi Ave., 232",2023-01-04
+10694,10156,25,Kharkiv,"Sumska St., 56",2024-08-31
+10695,10231,32,Lviv,"Chornovola Ave., 123",2023-06-18
+10696,10479,25,Kharkiv,"Moskovskyi Ave., 233",2023-01-08
+10697,10136,32,Kharkiv,"Pushkinska St., 186",2024-07-30
+10698,10317,10,Kyiv,"Instytutska St., 232",2023-01-15
+10699,10077,25,Kharkiv,"Sumska St., 62",2024-08-09
+10700,10594,28,Odesa,"Pushkinska St., 90",2023-08-14
+10701,10434,31,Kyiv,"Lesi Ukrainky Blvd., 254",2024-08-20
+10702,10157,18,Lviv,"Bandery St., 116",2023-09-25
+10703,10155,6,Kharkiv,"Haharina Ave., 195",2024-03-29
+10704,10484,18,Kyiv,"Andriivskyi Uzviz, 176",2024-06-22
+10705,10361,24,Odesa,"Mykhailivska St., 56",2023-01-22
+10706,10300,24,Odesa,"Novoselskoho St., 234",2024-09-05
+10707,10074,20,Kharkiv,"Moskovskyi Ave., 23",2023-10-11
+10708,10132,33,Lviv,"Halytska St., 177",2024-06-12
+10709,10471,25,Kharkiv,"Pushkinska St., 225",2024-09-27
+10710,10487,22,Kyiv,"Velyka Vasylkivska St., 185",2023-10-14
+10711,10092,20,Kharkiv,"Universytetska St., 63",2024-10-31
+10712,10574,12,Lviv,"Bandery St., 232",2022-11-28
+10713,10483,3,Kyiv,"Lesi Ukrainky Blvd., 39",2024-01-08
+10714,10545,22,Odesa,"Mykhailivska St., 150",2023-10-18
+10715,10206,19,Kharkiv,"Heroiv Kharkova Ave., 72",2024-07-24
+10716,10223,8,Kyiv,"Khreshchatyk St., 112",2022-12-24
+10717,10041,35,Odesa,"Prymorskyi Blvd., 42",2023-03-24
+10718,10175,2,Kharkiv,"Haharina Ave., 145",2024-07-23
+10719,10503,18,Lviv,"Leva St., 46",2024-11-09
+10720,10001,34,Kharkiv,"Moskovskyi Ave., 12",2024-09-06
+10721,10191,27,Odesa,"Pushkinska St., 227",2024-07-13
+10722,10035,24,Ivano-Frankivsk,"Sichovykh Striltsiv St., 234",2023-09-15
+10723,10607,32,Lviv,"Svobody Ave., 179",2023-09-14
+10724,10225,26,Kharkiv,"Sumska St., 84",2023-01-22
+10725,10025,24,Kyiv,"Instytutska St., 131",2023-08-20
+10726,10626,5,Kyiv,"Instytutska St., 156",2023-10-30
+10727,10283,5,Kharkiv,"Holodnohirska St., 46",2024-11-12
+10728,10367,16,Kyiv,"Bohdana Khmelnytskoho St., 246",2023-04-01
+10729,10201,22,Kharkiv,"Holodnohirska St., 74",2023-01-21
+10730,10396,24,Odesa,"Polska St., 33",2024-09-11
+10731,10609,9,Kharkiv,"Sumska St., 245",2024-08-07
+10732,10611,10,Lviv,"Bandery St., 116",2024-05-08
+10733,10337,22,Kyiv,"Bohdana Khmelnytskoho St., 213",2023-06-07
+10734,10329,5,Kharkiv,"Universytetska St., 189",2024-11-02
+10735,10254,13,Kyiv,"Saksahanskoho St., 104",2024-11-04
+10736,10490,25,Kyiv,"Saksahanskoho St., 95",2023-05-16
+10737,10386,16,Ivano-Frankivsk,"Sportyvna St., 204",2024-09-22
+10738,10166,4,Odesa,"Hretska St., 133",2024-04-13
+10739,10348,35,Ivano-Frankivsk,"Nezalezhnosti St., 145",2024-04-18
+10740,10509,23,Zaporizhzhia,"Pratsi Sq., 232",2023-09-25
+10741,10156,3,Kyiv,"Lesi Ukrainky Blvd., 119",2024-10-26
+10742,10534,14,Chernihiv,"Piatnytska St., 17",2023-03-08
+10743,10370,13,Lviv,"Leva St., 64",2024-08-26
+10744,10039,13,Kharkiv,"Holodnohirska St., 44",2023-12-08
+10745,10633,3,Odesa,"Kanatna St., 34",2023-02-04
+10746,10151,18,Mykolaiv,"Chkalova St., 33",2024-01-24
+10747,10348,1,Odesa,"Kanatna St., 74",2024-11-23
+10748,10236,25,Lviv,"Leva St., 119",2024-01-29
+10749,10234,21,Lviv,"Svobody Ave., 95",2023-06-18
+10750,10541,4,Kyiv,"Bohdana Khmelnytskoho St., 45",2023-09-10
+10751,10010,20,Dnipro,"Heroiv Ave., 53",2023-04-08
+10752,10516,6,Kharkiv,"Moskovskyi Ave., 203",2024-06-10
+10753,10184,10,Odesa,"Derybasivska St., 107",2023-01-14
+10754,10456,20,Dnipro,"Glinka St., 162",2024-02-27
+10755,10004,11,Kyiv,"Pobedy Ave., 144",2023-06-17
+10756,10558,20,Odesa,"Pushkinska St., 29",2024-07-13
+10757,10078,32,Odesa,"Hretska St., 184",2023-03-19
+10758,10023,9,Lviv,"Halytska St., 247",2024-08-16
+10759,10178,16,Odesa,"Tolstoho St., 77",2022-12-20
+10760,10566,14,Odesa,"Frantsuzkyi Blvd., 151",2023-02-06
+10761,10091,11,Odesa,"Kanatna St., 190",2023-06-26
+10762,10021,30,Mykolaiv,"Sadova St., 227",2024-10-24
+10763,10337,18,Lviv,"Shevchenka St., 185",2023-11-02
+10764,10608,20,Chernihiv,"Dniprovska St., 112",2023-05-06
+10765,10494,14,Odesa,"Mykhailivska St., 210",2023-06-20
+10766,10529,12,Kyiv,"Instytutska St., 119",2024-07-11
+10767,10538,20,Sumy,"Sadova St., 112",2024-06-03
+10768,10375,25,Kyiv,"Shevchenka Ave., 146",2023-07-18
+10769,10478,34,Lviv,"Svobody Ave., 173",2023-05-06
+10770,10295,29,Kyiv,"Lesi Ukrainky Blvd., 39",2024-05-12
+10771,10184,23,Kyiv,"Instytutska St., 126",2024-04-24
+10772,10138,9,Chernihiv,"Kotsyubynskoho St., 236",2023-02-03
+10773,10420,14,Odesa,"Kanatna St., 155",2024-02-25
+10774,10473,26,Ivano-Frankivsk,"Sportyvna St., 213",2023-12-20
+10775,10052,9,Kyiv,"Instytutska St., 127",2022-12-31
+10776,10296,23,Lviv,"Franko St., 47",2024-08-26
+10777,10438,32,Kyiv,"Volodymyrska St., 192",2024-03-20
+10778,10398,7,Kharkiv,"Holodnohirska St., 129",2024-05-12
+10779,10397,31,Ivano-Frankivsk,"Holovna St., 36",2024-02-26
+10780,10311,6,Zaporizhzhia,"Pratsi Sq., 250",2024-11-26
+10781,10491,9,Odesa,"Tolstoho St., 192",2023-07-06
+10782,10607,29,Kyiv,"Lesi Ukrainky Blvd., 38",2024-08-14
+10783,10243,9,Kharkiv,"Poltavskyi Shlyakh St., 126",2024-10-23
+10784,10016,23,Vinnytsia,"Pirogova St., 203",2023-07-27
+10785,10082,18,Kharkiv,"Nauky Ave., 225",2024-08-22
+10786,10299,9,Kharkiv,"Pushkinska St., 196",2023-09-06
+10787,10176,2,Odesa,"Derybasivska St., 12",2024-08-21
+10788,10217,15,Lviv,"Kopernyka St., 168",2023-06-06
+10789,10119,3,Zaporizhzhia,"Khortytska St., 159",2024-11-03
+10790,10321,16,Ivano-Frankivsk,"Shevchenka St., 99",2023-09-02
+10791,10403,22,Kharkiv,"Poltavskyi Shlyakh St., 75",2024-02-16
+10792,10515,24,Chernihiv,"Lazariana St., 139",2024-03-17
+10793,10139,9,Mykolaiv,"Sadova St., 86",2023-02-23
+10794,10205,25,Kyiv,"Lesi Ukrainky Blvd., 183",2023-03-26
+10795,10236,19,Lviv,"Franko St., 8",2023-07-24
+10796,10090,22,Kyiv,"Bohdana Khmelnytskoho St., 171",2023-09-26
+10797,10420,24,Kharkiv,"Holodnohirska St., 22",2023-10-16
+10798,10440,31,Kyiv,"Pobedy Ave., 224",2024-02-03
+10799,10249,27,Lviv,"Virmenska St., 192",2023-04-07
+10800,10368,28,Mykolaiv,"Frunze St., 4",2023-05-09
+10801,10294,12,Lviv,"Rynok Sq., 130",2023-08-23
+10802,10516,31,Dnipro,"Kalynova St., 244",2024-08-13
+10803,10248,15,Odesa,"Tolstoho St., 109",2023-10-08
+10804,10394,33,Chernihiv,"Nezalezhnosti St., 51",2023-12-27
+10805,10393,35,Kharkiv,"Poltavskyi Shlyakh St., 240",2024-05-31
+10806,10441,31,Odesa,"Polska St., 116",2023-04-04
+10807,10106,4,Odesa,"Frantsuzkyi Blvd., 141",2022-12-22
+10808,10047,21,Lviv,"Franko St., 130",2023-03-09
+10809,10494,27,Lviv,"Chornovola Ave., 51",2023-11-23
+10810,10077,25,Odesa,"Kanatna St., 166",2023-04-28
+10811,10515,27,Kharkiv,"Moskovskyi Ave., 154",2024-03-21
+10812,10208,27,Mykolaiv,"Frunze St., 4",2023-07-09
+10813,10353,3,Kyiv,"Khreshchatyk St., 178",2024-09-25
+10814,10272,1,Kyiv,"Bohdana Khmelnytskoho St., 42",2024-08-13
+10815,10189,25,Odesa,"Frantsuzkyi Blvd., 117",2024-03-01
+10816,10544,7,Lviv,"Chornovola Ave., 233",2024-01-29
+10817,10281,34,Lviv,"Rynok Sq., 243",2023-05-27
+10818,10427,12,Lviv,"Chornovola Ave., 249",2023-02-11
+10819,10003,1,Kharkiv,"Pushkinska St., 234",2023-11-29
+10820,10403,14,Kyiv,"Khreshchatyk St., 27",2024-03-31
+10821,10512,26,Kyiv,"Pobedy Ave., 222",2023-11-06
+10822,10349,34,Ivano-Frankivsk,"Sportyvna St., 184",2024-02-13
+10823,10166,23,Lviv,"Svobody Ave., 159",2024-08-27
+10824,10535,5,Zaporizhzhia,"Pobedy Blvd., 154",2024-07-10
+10825,10267,15,Odesa,"Pushkinska St., 64",2024-10-17
+10826,10027,29,Kharkiv,"Haharina Ave., 121",2024-03-03
+10827,10116,33,Zaporizhzhia,"Sobornyi Ave., 15",2024-10-26
+10828,10057,19,Lviv,"Shevchenka St., 181",2023-04-06
+10829,10141,5,Mykolaiv,"Khortytska St., 153",2023-05-21
+10830,10368,15,Kyiv,"Saksahanskoho St., 30",2024-03-23
+10831,10617,22,Odesa,"Hretska St., 99",2023-04-30
+10832,10416,6,Lviv,"Bandery St., 100",2023-06-15
+10833,10393,23,Kyiv,"Instytutska St., 173",2023-11-07
+10834,10102,4,Lviv,"Rynok Sq., 208",2023-11-26
+10835,10207,12,Sumy,"Pokrovska St., 72",2023-06-03
+10836,10470,1,Lviv,"Shevchenka St., 228",2023-05-24
+10837,10092,12,Odesa,"Prymorskyi Blvd., 73",2024-01-28
+10838,10542,7,Odesa,"Frantsuzkyi Blvd., 202",2024-06-08
+10839,10348,20,Sumy,"Myru Ave., 223",2023-08-25
+10840,10225,29,Odesa,"Hretska St., 166",2023-08-19
+10841,10294,14,Kyiv,"Andriivskyi Uzviz, 14",2023-02-14
+10842,10014,35,Kharkiv,"Moskovskyi Ave., 80",2023-11-11
+10843,10617,31,Lviv,"Virmenska St., 132",2023-01-18
+10844,10092,24,Odesa,"Mykhailivska St., 93",2023-03-24
+10845,10226,28,Ivano-Frankivsk,"Holovna St., 246",2023-08-28
+10846,10165,29,Odesa,"Hretska St., 80",2024-04-26
+10847,10257,12,Ivano-Frankivsk,"Holovna St., 85",2023-03-01
+10848,10284,16,Mykolaiv,"Sadova St., 36",2024-02-19
+10849,10562,21,Ivano-Frankivsk,"Sichovykh Striltsiv St., 72",2023-06-24
+10850,10501,19,Vinnytsia,"Korolenko St., 231",2023-03-18
+10851,10627,10,Chernihiv,"Rokossovskoho St., 45",2023-12-22
+10852,10131,10,Kyiv,"Lesi Ukrainky Blvd., 253",2023-06-29
+10853,10036,30,Sumy,"Heroyiv St., 95",2024-03-26
+10854,10207,11,Lviv,"Bandery St., 147",2023-03-13
+10855,10287,22,Kharkiv,"Moskovskyi Ave., 29",2023-02-03
+10856,10159,35,Lviv,"Shevchenka St., 132",2024-06-06
+10857,10032,28,Kyiv,"Khreshchatyk St., 69",2023-05-13
+10858,10404,28,Dnipro,"Peremohy Sq., 91",2024-11-15
+10859,10581,19,Kyiv,"Andriivskyi Uzviz, 127",2023-03-23
+10860,10365,25,Kyiv,"Instytutska St., 118",2023-07-27
+10861,10430,33,Odesa,"Polska St., 2",2023-12-07
+10862,10618,33,Mykolaiv,"Khortytska St., 67",2023-12-29
+10863,10591,18,Lviv,"Franko St., 156",2023-09-28
+10864,10461,33,Odesa,"Pushkinska St., 164",2024-10-11
+10865,10107,20,Odesa,"Tolstoho St., 83",2024-07-12
+10866,10587,35,Odesa,"Derybasivska St., 82",2024-11-03
+10867,10314,3,Chernihiv,"Rokossovskoho St., 54",2023-07-22
+10868,10473,1,Kharkiv,"Universytetska St., 11",2023-03-30
+10869,10618,4,Kharkiv,"Moskovskyi Ave., 6",2023-07-30
+10870,10594,26,Poltava,"Sadova St., 200",2024-03-06
+10871,10029,34,Kharkiv,"Svobody Sq., 94",2022-12-27
+10872,10554,12,Odesa,"Derybasivska St., 32",2024-06-03
+10873,10455,26,Lviv,"Chornovola Ave., 230",2024-07-15
+10874,10391,31,Kharkiv,"Sumska St., 9",2023-10-18
+10875,10426,12,Kharkiv,"Moskovskyi Ave., 198",2023-08-29
+10876,10210,1,Kyiv,"Bohdana Khmelnytskoho St., 226",2023-04-15
+10877,10056,35,Lviv,"Svobody Ave., 254",2023-10-14
+10878,10113,30,Kharkiv,"Haharina Ave., 118",2023-01-13
+10879,10073,28,Poltava,"Chornovola St., 46",2024-10-02
+10880,10558,6,Kharkiv,"Haharina Ave., 174",2023-03-16
+10881,10460,19,Kharkiv,"Universytetska St., 200",2024-06-11
+10882,10448,32,Odesa,"Mykhailivska St., 60",2024-03-25
+10883,10048,1,Kharkiv,"Universytetska St., 110",2024-10-06
+10884,10391,18,Odesa,"Derybasivska St., 201",2024-02-23
+10885,10391,31,Lviv,"Chornovola Ave., 151",2024-05-15
+10886,10039,9,Kharkiv,"Sumska St., 136",2023-06-14
+10887,10587,4,Kyiv,"Shevchenka Ave., 15",2023-07-04
+10888,10418,31,Kyiv,"Saksahanskoho St., 56",2024-03-03
+10889,10444,23,Lviv,"Kopernyka St., 225",2024-08-19
+10890,10069,35,Kyiv,"Bohdana Khmelnytskoho St., 192",2024-04-16
+10891,10271,21,Chernihiv,"Nezalezhnosti St., 153",2023-06-05
+10892,10505,19,Kharkiv,"Heroiv Kharkova Ave., 58",2023-10-12
+10893,10247,21,Ivano-Frankivsk,"Melnyka St., 210",2022-12-12
+10894,10082,35,Zaporizhzhia,"Pivnichna St., 39",2024-04-15
+10895,10467,3,Chernihiv,"Kotsyubynskoho St., 161",2024-05-14
+10896,10375,15,Kyiv,"Velyka Vasylkivska St., 150",2024-06-10
+10897,10207,4,Odesa,"Pushkinska St., 17",2024-07-06
+10898,10601,10,Odesa,"Polska St., 219",2023-08-16
+10899,10578,3,Vinnytsia,"Hrushevskogo St., 157",2023-09-16
+10900,10185,12,Odesa,"Frantsuzkyi Blvd., 180",2023-11-03
+10901,10310,19,Kharkiv,"Haharina Ave., 72",2024-02-14
+10902,10611,31,Odesa,"Frantsuzkyi Blvd., 111",2024-04-28
+10903,10336,11,Ivano-Frankivsk,"Levytskoho St., 143",2024-02-28
+10904,10395,14,Odesa,"Kanatna St., 160",2023-08-16
+10905,10073,17,Kharkiv,"Universytetska St., 93",2023-02-07
+10906,10303,27,Odesa,"Novoselskoho St., 116",2024-04-29
+10907,10044,21,Odesa,"Prymorskyi Blvd., 188",2022-12-16
+10908,10571,8,Poltava,"Sadova St., 155",2023-01-12
+10909,10445,35,Odesa,"Frantsuzkyi Blvd., 186",2022-12-11
+10910,10580,33,Odesa,"Frantsuzkyi Blvd., 14",2024-06-27
+10911,10040,3,Kyiv,"Bohdana Khmelnytskoho St., 136",2023-05-31
+10912,10611,35,Poltava,"Sobornosti St., 248",2024-06-24
+10913,10228,11,Zaporizhzhia,"Khortytska St., 178",2024-06-14
+10914,10023,26,Ivano-Frankivsk,"Levytskoho St., 79",2023-07-05
+10915,10406,31,Kharkiv,"Nauky Ave., 102",2023-04-16
+10916,10609,30,Mykolaiv,"Nezalezhnosti St., 140",2023-03-07
+10917,10623,14,Odesa,"Prymorskyi Blvd., 212",2023-08-27
+10918,10142,12,Odesa,"Polska St., 144",2024-08-28
+10919,10463,17,Kharkiv,"Pushkinska St., 244",2024-04-12
+10920,10628,25,Lviv,"Franko St., 67",2022-12-23
+10921,10158,4,Lviv,"Virmenska St., 155",2024-05-23
+10922,10230,21,Lviv,"Svobody Ave., 120",2023-06-02
+10923,10225,23,Lviv,"Bandery St., 203",2023-10-20
+10924,10626,27,Kharkiv,"Moskovskyi Ave., 167",2023-07-04
+10925,10146,25,Odesa,"Frantsuzkyi Blvd., 19",2024-11-22
+10926,10271,20,Lviv,"Franko St., 110",2024-03-03
+10927,10461,27,Lviv,"Leva St., 152",2024-09-11
+10928,10156,4,Kharkiv,"Nauky Ave., 29",2024-08-25
+10929,10499,34,Chernihiv,"Shevchenka St., 211",2023-10-24
+10930,10167,10,Kyiv,"Velyka Vasylkivska St., 1",2023-04-27
+10931,10053,20,Odesa,"Derybasivska St., 71",2023-07-13
+10932,10611,11,Kyiv,"Saksahanskoho St., 212",2024-01-08
+10933,10380,24,Lviv,"Leva St., 171",2024-04-08
+10934,10401,24,Odesa,"Kanatna St., 144",2024-08-19
+10935,10529,11,Poltava,"Kirova St., 252",2024-09-04
+10936,10564,15,Sumy,"Vyshneva St., 200",2024-07-02
+10937,10193,28,Vinnytsia,"Zamkova St., 236",2023-05-19
+10938,10176,28,Kharkiv,"Heroiv Kharkova Ave., 249",2024-11-20
+10939,10518,30,Sumy,"Pokrovska St., 7",2023-01-22
+10940,10478,29,Lviv,"Chornovola Ave., 150",2023-05-24
+10941,10176,8,Kharkiv,"Sumska St., 29",2024-11-22
+10942,10586,23,Odesa,"Polska St., 237",2024-05-03
+10943,10156,21,Kharkiv,"Holodnohirska St., 114",2024-09-10
+10944,10405,33,Sumy,"Heroyiv St., 126",2024-07-25
+10945,10376,9,Kharkiv,"Holodnohirska St., 229",2024-10-25
+10946,10460,24,Odesa,"Frantsuzkyi Blvd., 236",2023-03-03
+10947,10525,2,Odesa,"Kanatna St., 208",2024-05-23
+10948,10442,27,Kyiv,"Pobedy Ave., 88",2024-08-21
+10949,10421,14,Odesa,"Prymorskyi Blvd., 162",2024-04-09
+10950,10384,7,Kyiv,"Pobedy Ave., 117",2024-01-31
+10951,10557,3,Lviv,"Rynok Sq., 85",2023-03-15
+10952,10256,22,Lviv,"Bandery St., 5",2024-01-01
+10953,10163,4,Lviv,"Kopernyka St., 79",2023-02-11
+10954,10080,16,Kharkiv,"Svobody Sq., 195",2024-11-11
+10955,10577,15,Kharkiv,"Nauky Ave., 194",2022-12-13
+10956,10503,31,Lviv,"Virmenska St., 162",2023-04-08
+10957,10427,1,Poltava,"Sadova St., 167",2024-02-09
+10958,10630,9,Odesa,"Novoselskoho St., 115",2024-05-17
+10959,10539,22,Kharkiv,"Sumska St., 151",2024-08-14
+10960,10270,32,Ivano-Frankivsk,"Holovna St., 71",2024-10-02
+10961,10153,1,Kyiv,"Saksahanskoho St., 38",2023-04-26
+10962,10521,8,Kharkiv,"Heroiv Kharkova Ave., 96",2023-08-28
+10963,10370,9,Zaporizhzhia,"Pivnichna St., 115",2024-06-10
+10964,10443,9,Odesa,"Derybasivska St., 121",2023-09-05
+10965,10029,21,Kyiv,"Bohdana Khmelnytskoho St., 131",2024-10-30
+10966,10308,34,Kyiv,"Shevchenka Ave., 68",2023-01-14
+10967,10002,14,Dnipro,"Verkhniy Val St., 106",2024-09-17
+10968,10145,15,Mykolaiv,"Admiralska St., 33",2023-08-03
+10969,10576,33,Kharkiv,"Pushkinska St., 243",2023-01-05
+10970,10352,34,Odesa,"Polska St., 146",2023-03-27
+10971,10583,12,Chernihiv,"Haharina St., 65",2024-01-12
+10972,10401,32,Kharkiv,"Haharina Ave., 198",2024-07-26
+10973,10179,16,Ivano-Frankivsk,"Sichovykh Striltsiv St., 111",2023-02-23
+10974,10437,17,Lviv,"Rynok Sq., 20",2024-01-07
+10975,10034,24,Lviv,"Halytska St., 58",2024-07-21
+10976,10056,14,Kyiv,"Khreshchatyk St., 158",2023-05-15
+10977,10155,15,Odesa,"Pushkinska St., 159",2024-09-25
+10978,10249,11,Kyiv,"Bohdana Khmelnytskoho St., 89",2023-05-14
+10979,10482,8,Odesa,"Hretska St., 174",2024-09-21
+10980,10365,20,Lviv,"Shevchenka St., 116",2023-04-13
+10981,10485,28,Kyiv,"Shevchenka Ave., 228",2023-02-16
+10982,10277,30,Kharkiv,"Holodnohirska St., 207",2023-01-31
+10983,10162,6,Lviv,"Rynok Sq., 32",2024-03-10
+10984,10295,10,Odesa,"Pushkinska St., 203",2023-03-20
+10985,10292,1,Poltava,"Kirova St., 235",2024-10-18
+10986,10040,18,Kyiv,"Andriivskyi Uzviz, 51",2023-05-29
+10987,10163,13,Lviv,"Halytska St., 28",2022-12-12
+10988,10600,21,Kyiv,"Lesi Ukrainky Blvd., 21",2023-03-31
+10989,10119,14,Kyiv,"Khreshchatyk St., 180",2024-02-23
+10990,10026,18,Kharkiv,"Nauky Ave., 68",2024-03-14
+10991,10354,28,Kharkiv,"Moskovskyi Ave., 143",2024-05-15
+10992,10143,3,Vinnytsia,"Pirogova St., 44",2023-05-08
+10993,10102,18,Ivano-Frankivsk,"Melnyka St., 38",2024-08-31
+10994,10081,33,Kyiv,"Pobedy Ave., 183",2024-07-03
+10995,10409,25,Lviv,"Halytska St., 70",2024-05-25
+10996,10367,31,Lviv,"Leva St., 79",2023-03-06
+10997,10197,6,Odesa,"Mykhailivska St., 13",2024-05-09
+10998,10038,33,Kharkiv,"Heroiv Kharkova Ave., 1",2023-01-28
+10999,10594,12,Odesa,"Novoselskoho St., 13",2023-08-05
+11000,10124,14,Zaporizhzhia,"Tsentralna St., 219",2024-02-10
+11001,10463,4,Lviv,"Rynok Sq., 26",2024-02-07
+11002,10479,13,Chernihiv,"Kotsyubynskoho St., 30",2024-10-29
+11003,10194,1,Lviv,"Svobody Ave., 74",2023-09-10
+11004,10585,2,Lviv,"Svobody Ave., 120",2023-11-21
+11005,10078,20,Odesa,"Prymorskyi Blvd., 38",2024-07-16
+11006,10191,14,Kyiv,"Bohdana Khmelnytskoho St., 111",2023-04-23
+11007,10020,29,Odesa,"Tolstoho St., 198",2023-04-13
+11008,10300,9,Kharkiv,"Moskovskyi Ave., 167",2023-08-14
+11009,10462,22,Kyiv,"Volodymyrska St., 34",2023-08-18
+11010,10467,15,Odesa,"Hretska St., 215",2024-01-22
+11011,10507,5,Kharkiv,"Nauky Ave., 161",2024-11-23
+11012,10429,10,Odesa,"Tolstoho St., 39",2024-05-08
+11013,10050,23,Kharkiv,"Universytetska St., 223",2024-04-28
+11014,10463,21,Odesa,"Hretska St., 121",2023-12-29
+11015,10045,33,Odesa,"Novoselskoho St., 165",2024-03-13
+11016,10042,13,Kyiv,"Volodymyrska St., 238",2024-09-01
+11017,10439,28,Odesa,"Novoselskoho St., 55",2023-06-13
+11018,10516,14,Lviv,"Shevchenka St., 233",2024-04-10
+11019,10428,19,Odesa,"Frantsuzkyi Blvd., 215",2023-01-13
+11020,10168,1,Kyiv,"Khreshchatyk St., 153",2024-03-10
+11021,10002,7,Odesa,"Kanatna St., 196",2024-01-11
+11022,10602,9,Odesa,"Mykhailivska St., 183",2023-10-03
+11023,10383,30,Lviv,"Halytska St., 139",2024-01-05
+11024,10135,31,Kyiv,"Velyka Vasylkivska St., 23",2024-11-16
+11025,10200,31,Mykolaiv,"Khortytska St., 244",2023-02-02
+11026,10592,14,Zaporizhzhia,"Sobornyi Ave., 111",2024-05-05
+11027,10162,28,Zaporizhzhia,"Khortytska St., 59",2024-07-26
+11028,10163,4,Lviv,"Svobody Ave., 206",2024-03-08
+11029,10507,1,Poltava,"Zhovtneva St., 153",2024-01-25
+11030,10248,28,Kharkiv,"Moskovskyi Ave., 35",2023-03-04
+11031,10445,26,Chernihiv,"Piatnytska St., 190",2024-11-17
+11032,10098,28,Kyiv,"Khreshchatyk St., 189",2023-01-09
+11033,10065,21,Lviv,"Rynok Sq., 45",2023-12-27
+11034,10501,28,Lviv,"Bandery St., 38",2023-06-06
+11035,10279,13,Kyiv,"Velyka Vasylkivska St., 190",2024-05-30
+11036,10119,4,Sumy,"Myru Ave., 213",2023-09-14
+11037,10062,21,Ivano-Frankivsk,"Sportyvna St., 19",2023-12-06
+11038,10444,30,Odesa,"Derybasivska St., 87",2023-07-07
+11039,10549,34,Lviv,"Shevchenka St., 5",2022-12-06
+11040,10337,1,Ivano-Frankivsk,"Shevchenka St., 5",2024-05-09
+11041,10348,20,Lviv,"Chornovola Ave., 214",2023-10-14
+11042,10575,16,Odesa,"Polska St., 71",2024-09-18
+11043,10351,23,Kharkiv,"Poltavskyi Shlyakh St., 228",2022-12-13
+11044,10115,20,Odesa,"Frantsuzkyi Blvd., 144",2023-01-08
+11045,10202,6,Kyiv,"Volodymyrska St., 127",2022-12-03
+11046,10083,17,Chernihiv,"Piatnytska St., 80",2024-09-08
+11047,10406,23,Kyiv,"Saksahanskoho St., 119",2023-11-30
+11048,10029,35,Chernihiv,"Haharina St., 66",2022-12-08
+11049,10420,9,Lviv,"Chornovola Ave., 113",2024-06-12
+11050,10273,17,Kharkiv,"Nauky Ave., 133",2024-02-14
+11051,10247,13,Lviv,"Leva St., 240",2024-01-24
+11052,10207,18,Kyiv,"Andriivskyi Uzviz, 131",2024-02-20
+11053,10002,18,Kharkiv,"Moskovskyi Ave., 209",2023-02-27
+11054,10315,10,Odesa,"Mykhailivska St., 81",2023-06-18
+11055,10338,30,Poltava,"Chornovola St., 32",2023-02-07
+11056,10421,22,Kharkiv,"Universytetska St., 208",2024-03-20
+11057,10333,25,Kharkiv,"Svobody Sq., 175",2023-05-20
+11058,10047,27,Dnipro,"Peremohy Sq., 97",2023-08-24
+11059,10267,13,Ivano-Frankivsk,"Levytskoho St., 2",2024-07-02
+11060,10159,35,Poltava,"Sadova St., 115",2023-11-30
+11061,10306,3,Mykolaiv,"Dunaeva St., 193",2023-03-17
+11062,10397,23,Vinnytsia,"Pirogova St., 46",2024-02-25
+11063,10321,5,Odesa,"Prymorskyi Blvd., 27",2022-12-09
+11064,10098,19,Chernihiv,"Piatnytska St., 155",2023-03-14
+11065,10178,20,Kharkiv,"Svobody Sq., 161",2023-08-08
+11066,10147,28,Zaporizhzhia,"Pratsi Sq., 18",2024-10-16
+11067,10626,18,Odesa,"Kanatna St., 50",2023-02-17
+11068,10439,22,Lviv,"Franko St., 212",2023-09-16
