@@ -67,30 +67,60 @@ Below is the ER diagram illustrating the relationships between the tables:
 
 ---
 
-## Logical Structure of the ER Diagram
+## Data Generation and Python Scripts
 
-1. **Orders and Customers**:
-   - Each order is linked to a single customer (`Customer_ID`), but a customer can place multiple orders.
-   - Implemented as a **one-to-many** relationship.
+At this stage of the project, Python scripts were developed to generate data for all tables and save it as CSV files. These scripts automate data creation and processing to populate the database with realistic information. 
 
-2. **Orders and Mediators**:
-   - An order can be linked to a mediator (`Mediator_ID`), but the field is optional. 
-   - A mediator can handle multiple orders.
+### Python Scripts
 
-3. **Orders and Order_Details**:
-   - Each order can contain multiple details (e.g., materials and tasks).
-   - Implemented as a **one-to-many** relationship.
+1. **`config.py`**:
+   - Contains configuration settings, including the file path for saving generated data.
+   - Provides utility functions:
+     - Ukrainian phone number generation.
+     - Ukrainian name generation.
 
-4. **Order_Details and Materials**:
-   - Each detail refers to a specific material (`Material_ID`), but one material can appear in multiple orders.
-   - Implemented as a **many-to-many** relationship.
+2. **`manufacturers_data_extractor.py`**:
+   - Scrapes manufacturer information and decorative material details from [Prof-Decor](https://prof-decor.com.ua/brands).
+   - Combines scraped data with website details from `manufacturers_sites.txt`.
+   - Outputs the final manufacturer data into `manufacturers.json`.
 
-5. **Materials and Manufacturers**:
-   - Each material is produced by one manufacturer (`Manufacturer_ID`), but a manufacturer can produce multiple materials.
-   - Implemented as a **one-to-many** relationship.
+3. **`manufacturers_data_creator.py`**:
+   - Converts the JSON file from the extractor script into a CSV file `manufacturers.csv`.
+   - Prepares manufacturer data for database import.
+
+4. **`materials_data_creator.py`**:
+   - Generates material data based on the manufacturer data.
+   - Outputs a CSV file `materials.csv` containing material details such as prices and names.
+
+5. **`customers_data_creator.py`**:
+   - Generates customer data, including full names and phone numbers.
+   - Outputs a CSV file `customers.csv`.
+
+6. **`mediators_data_creator.py`**:
+   - Creates mediator data with names, phone numbers, and optional company names.
+   - Outputs a CSV file `mediators.csv`.
+
+7. **`orders_data_creator.py`**:
+   - Generates order information, linking customers, mediators, and order details.
+   - Outputs a CSV file `orders.csv`.
+
+8. **`order_details_data_creator.py`**:
+   - Generates detailed order information, linking orders to materials and including quantities, coverage areas, and descriptions.
+   - Outputs a CSV file `order_details.csv`.
+
+### Generated Data
+
+All generated datasets are stored in the **`Generated Data`** folder in CSV format. These datasets include:
+
+- `manufacturers.csv`
+- `materials.csv`
+- `customers.csv`
+- `mediators.csv`
+- `orders.csv`
+- `order_details.csv`
 
 ---
 
 ## Next Steps
 
-The next step is to generate data for all the tables using Python, save it as CSV files, and import the data into the database.
+The next step is to import the generated CSV files into the database and execute SQL queries to extract meaningful insights.
