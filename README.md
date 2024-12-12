@@ -121,6 +121,20 @@ All generated datasets are stored in the **`Generated Data`** folder in CSV form
 
 ---
 
-## Next Steps
+## Importing Data into the Database
 
-The next step is to import the generated CSV files into the database and execute SQL queries to extract meaningful insights.
+### 1. **Database Tables Creation**
+Using the SQL script **`DB Tables Creation.sql`** (located in the `SQL Queries` folder), I created all the necessary tables in the PostgreSQL database. The script is based on the database model presented earlier.
+
+### 2. **Data Import**
+The generated CSV files were imported into the database using **pgAdmin's import functionality**. The imported files are located in the `Generated Data` folder and correspond to the following tables:
+- `customers.csv` → `customers`
+- `manufacturers.csv` → `manufacturers`
+- `materials.csv` → `materials`
+- `mediators.csv` → `mediators`
+- `orders.csv` → `orders`
+- `order_details.csv` → `order_details`
+
+### 3. **Data Verification**
+To ensure the data was correctly imported, I executed simple SQL queries to check table contents and relationships.
+
