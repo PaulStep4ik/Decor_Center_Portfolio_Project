@@ -155,10 +155,12 @@ Using Power BI's built-in PostgreSQL connector, I imported all necessary tables 
 In **Power Query**, I created two calculated columns in the `main table`:  
 1. **Profit**:  
    Formula: ([sell_price] - [purchase_price]) * [quantity]
+
 Represents the profit generated from selling materials.  
 
 2. **Profit_for_cover**:  
 Formula:  ([coverage_area] * [price_per_sqm] * 0.3)
+
 This column accounts for 30% of the total revenue, with the remaining 70% allocated for worker and mediator fees.  
 
 Additionally, I formatted the data for better readability:
@@ -166,6 +168,61 @@ Additionally, I formatted the data for better readability:
 - Adjusted other data types for consistency.  
 
 This preparation ensures the data is clean, structured, and ready for visualization in Power BI.
+
+
+# Power BI Dashboards Analysis
+
+As part of this project, two dashboards were created in Power BI to analyze the sales and mediators' impact for our Decor Center. Below is a detailed description of the dashboards, insights derived from the analysis, and potential business recommendations.
+
+## 1. General Sales Analysis
+
+![General Sales Analysis](Power%20BI%20Dashboard/General%20Sales%20Analysis.JPG)
+
+### Insights:
+- **Materials' Popularity by Country**: 
+  The majority of materials popular among our customers are manufactured in Italy, accounting for 59.1% of sales. Ukrainian-made materials are the second most popular, comprising 29.8%. 
+
+- **Geographic Spread of Orders**: 
+  Most orders are concentrated in major cities, including Lviv, Kharkiv, Kyiv, and Odesa. This is consistent with the distribution of urban centers in the country.
+
+- **Orders and Profit Over Time**: 
+  - In 2024, the overall number of orders increased compared to 2023, indicating growing demand. 
+  - Despite the increase in orders, the average profit per sale remained consistent year over year. 
+  - The center generates higher profits from the 30% commission on applying materials than from selling the materials directly.
+
+- **Orders and Manufacturers**: 
+  - Materials from the company **Tatoo** are the most ordered, yet they generate among the lowest average profits.
+  - The highest average profits are derived from materials of **Oikos**, **Colorificio Veneziano**, and **Fast Granit**. Interestingly, **Fast Granit** materials are the least popular but yield significant profit margins. 
+  - This observation suggests potential for increasing prices on materials from manufacturers like **Tatoo**, **Candis**, and **Coverit**, where high demand exists but profits are lower.
+
+### Recommendations:
+1. Consider negotiating better supplier terms with **Tatoo** or slightly increasing prices to align profits with demand.
+2. Strengthen partnerships with high-profit manufacturers like **Oikos** and **Colorificio Veneziano**.
+3. Explore strategies to promote **Fast Granit** materials, as they generate high profits despite being less popular.
+
+---
+
+## 2. Mediators Analysis
+
+![Mediators Analysis](Power%20BI%20Dashboard/Mediators%20Analysis.JPG)
+
+### Insights:
+- **Top Performing Mediators**: 
+  A ranked table shows the mediators bringing in the most customers and generating the highest profits. The top-performing mediator is **Babko Volodymyra Spasivna**, who has facilitated 42 orders, accounting for 4.13% of total profits.
+
+- **Orders and Profits by Companies**:
+  - Most customers are referred by **Spetsbudmontazh**, which dominates the order count.
+  - However, the highest profits come from customers referred by **Kovalska Group**. This indicates a high-value customer base brought in by Kovalska Group.
+
+### Recommendations:
+1. Strengthen the partnership with **Kovalska Group** to ensure continued collaboration and possibly explore exclusive deals or benefits.
+2. Maintain good relationships with **Spetsbudmontazh**, as they contribute significantly to the volume of orders.
+3. Analyze underperforming mediators to understand why their impact is lower and consider adjustments in commission structures or incentives.
+
+---
+
+## Conclusion
+These dashboards provide clear insights into the Decor Center's sales and mediator performance. They highlight opportunities for improvement in pricing strategies, customer acquisition, and partnership optimization. These visualizations can be leveraged for data-driven decision-making and long-term business growth.
 
 
 
