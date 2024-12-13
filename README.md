@@ -2,7 +2,7 @@
 
 ## ER Diagram
 
-At this stage of the project, the ER diagram for the database was created to manage orders for the Decor Center. The diagram represents a relational model consisting of six tables:
+At the first step of the project, the ER diagram for the database was created to manage orders for the Decor Center. The diagram represents a relational model consisting of six tables:
 
 1. **Orders**:
    - Contains information about orders, including customers, mediators, and project addresses.
