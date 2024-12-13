@@ -138,3 +138,34 @@ The generated CSV files were imported into the database using **pgAdmin's import
 ### 3. **Data Verification**
 To ensure the data was correctly imported, I executed simple SQL queries to check table contents and relationships.
 
+## Extracting Data into Power BI
+
+### Selected Tables for Visualization
+For the visualizations, I decided to use the following tables:  
+- **Orders Table (`orders`)**: Contains details about each order, including the date and location.  
+- **Mediators Table (`mediators`)**: Provides information about mediators and their associated companies.  
+- **Main Table**: A custom table created using an SQL query that joins multiple tables based on the `order_details` table.  
+  - The SQL query is stored in the `SQL Queries` folder in the file **`Main table for Power BI.sql`**.
+
+### Importing Tables into Power BI
+Using Power BI's built-in PostgreSQL connector, I imported all necessary tables directly from the database. After importing:  
+- I verified the relationships between the tables in **Model View** to ensure they correctly reflected the database's relational structure.
+
+### Data Transformation in Power Query
+In **Power Query**, I created two calculated columns in the `main table`:  
+1. **Profit**:  
+   Formula: ([sell_price] - [purchase_price]) * [quantity]
+Represents the profit generated from selling materials.  
+
+2. **Profit_for_cover**:  
+Formula:  ([coverage_area] * [price_per_sqm] * 0.3)
+This column accounts for 30% of the total revenue, with the remaining 70% allocated for worker and mediator fees.  
+
+Additionally, I formatted the data for better readability:
+- Converted all monetary values to the **Currency** type in Ukrainian Hryvnia (UAH).  
+- Adjusted other data types for consistency.  
+
+This preparation ensures the data is clean, structured, and ready for visualization in Power BI.
+
+
+
