@@ -176,7 +176,7 @@ As part of this project, two dashboards were created in Power BI to analyze the 
 
 ## 1. General Sales Analysis
 
-![General Sales Analysis](Power%20BI%20Dashboard/General%20Sales%20Analysis.JPG)
+![General Sales Analysis](/Power%20Bi%20Dashboard/General%20Sales%20Analysis.JPG)
 
 ### Insights:
 - **Materials' Popularity by Country**: 
@@ -204,7 +204,7 @@ As part of this project, two dashboards were created in Power BI to analyze the 
 
 ## 2. Mediators Analysis
 
-![Mediators Analysis](Power%20BI%20Dashboard/Mediators%20Analysis.JPG)
+![Mediators Analysis](/Power%20Bi%20Dashboard/Mediators%20Analysis.JPG)
 
 ### Insights:
 - **Top Performing Mediators**: 
